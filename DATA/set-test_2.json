@@ -1,8 +1,8 @@
 {
   "nodes": [
     {"id": "Myriel", "group": 1},
-    {"id": "Napoleon", "group": 1},
-    {"id": "Mlle.Baptistine", "group": 1},
+    {"id": "Napoleon", "group": 2},
+    {"id": "Mlle.Baptistine", "group": 3},
   ],
   "links": [
     {"source": "Napoleon", "target": "Myriel", "value": 1},

@@ -1,11 +1,11 @@
 {
   "nodes": [
-    {"id": "READ Books", "group": 1},
+    {"id": "READ.Books", "group": 1},
     {"id": "Napoleon", "group": 1},
     {"id": "Vancouver", "group": 1},
   ],
   "links": [
-    {"source": "READ Books", "target": "George's book launch", "value": 1},
-    {"source": "READ Books", "target": "Vancouver", "value": 8},
+    {"source": "READ.Books", "target": "George's book launch", "value": 1},
+    {"source": "READ.Books", "target": "Vancouver", "value": 8},
   ]
 }

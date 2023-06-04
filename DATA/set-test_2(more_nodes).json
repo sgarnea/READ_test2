@@ -1,10 +1,12 @@
 {
     "nodes1": [
+        {
         "name": "Kathy Slade",
         "location": "",
         "description": "",
         "associations": "",
         "projects": ""
+        }
     ],
     "nodes2": [
       {

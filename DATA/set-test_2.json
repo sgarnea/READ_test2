@@ -2,7 +2,7 @@
   "nodes": [
     {"id": "READ Books", "group": 1},
     {"id": "Napoleon", "group": 1},
-    {"id": "Mlle.Baptistine", "group": 1},
+    {"id": "Vancouver", "group": 1},
   ],
   "links": [
     {"source": "READ Books", "target": "George's book launch", "value": 1},

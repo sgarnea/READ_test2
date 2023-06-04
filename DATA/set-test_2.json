@@ -1,93 +1,40 @@
 {
   "nodes": [
     {
-      "id": 1,
-      "name": "A"
-    },
+        "id: 1,
+        "eventName/tite ": "READ Books",
+    } 
     {
-      "id": 2,
-      "name": "B"
-    },
-    {
-      "id": 3,
-      "name": "C"
-    },
-    {
-      "id": 4,
-      "name": "D"
-    },
-    {
-      "id": 5,
-      "name": "E"
-    },
-    {
-      "id": 6,
-      "name": "F"
-    },
-    {
-      "id": 7,
-      "name": "G"
-    },
-    {
-      "id": 8,
-      "name": "H"
-    },
-    {
-      "id": 9,
-      "name": "I"
-    },
-    {
-      "id": 10,
-      "name": "J"
-    }
+       "id": 2, 
+       "eventName/title ": "George's book launch",
+        "authorPrimary": "George Takei",
+        "authorOtherParticipants": "Gene Roddenberry",
+        "location": "Charles H Scott Gallery",
+        "date": "12-4-2023",
+        "associations": "\"William Shatner",
+        "summary": " Scottie\"",
+      },
+      {
+        "id": 3,
+        "eventName/title ": "\"Vancouver",
+        "authorPrimary": " British Columbia",
+        "authorOtherParticipants": " Canada\"",
+        "location": "\"Brady Cranfield",
+        "date": " Christoph Keller",
+        "associations": " and Kathy Slade",
+        "summary": " \"",
+        "": " Lightning Dust (Amber Webber",
+        "\r": " Joshua Wells)"
+      },
   ],
   "links": [
-
     {
       "source": 1,
       "target": 2
     },
     {
       "source": 1,
-      "target": 5
-    },
-    {
-      "source": 1,
-      "target": 6
-    },
-
-    {
-      "source": 2,
       "target": 3
-    },
-            {
-      "source": 2,
-      "target": 7
-    }
-    ,
-
-    {
-      "source": 3,
-      "target": 4
-    },
-     {
-      "source": 8,
-      "target": 3
-    }
-    ,
-    {
-      "source": 4,
-      "target": 5
-    }
-    ,
-
-    {
-      "source": 4,
-      "target": 9
-    },
-    {
-      "source": 5,
-      "target": 10
     }
   ]
 }

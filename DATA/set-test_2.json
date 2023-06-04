@@ -1,11 +1,11 @@
 {
   "nodes": [
-    {"id": "Myriel", "group": 1},
-    {"id": "Napoleon", "group": 2},
-    {"id": "Mlle.Baptistine", "group": 3}
+    {"id": "READ Books", "group": 1},
+    {"id": "Vancouver, British Columbia, Canada", "group": 2},
+    {"id": "Modern Optical Experiments in Typography: Univers Ultra Light Oblique", "group": 3}
   ],
   "links": [
-    {"source": "Napoleon", "target": "Myriel", "value": 1},
-    {"source": "Napoleon", "target": "Mlle.Baptistine", "value": 1}
+    {"source": "Napoleon", "target": "Vancouver, British Columbia, Canada", "value": 1},
+    {"source": "Napoleon", "target": "Modern Optical Experiments in Typography: Univers Ultra Light Oblique", "value": 1}
   ]
 }

@@ -6,6 +6,6 @@
   ],
   "links": [
     {"source": "Napoleon", "target": "Myriel", "value": 1},
-    {"source": "Napoleon", "target": "Mlle.Baptistine", "value": 1},
+    {"source": "Napoleon", "target": "Mlle.Baptistine", "value": 1}
   ]
 }

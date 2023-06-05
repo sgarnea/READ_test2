@@ -309,8 +309,18 @@
         "associations": "",
         "projects": "",
         "group": 3,
-        "size": 5
-        }
+        "size": 8
+        },
+      {
+        "id": 27,
+        "name": "Cate Rimmer",
+        "location": "",
+        "description": "",
+        "associations": "",
+        "projects": "",
+        "group": 3,
+        "size": 8
+        },
     ],
   "links": [
         {"source": "1", "target": "26", "value": 1},

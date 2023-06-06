@@ -427,7 +427,9 @@
     ],
   "links": [        
         {"source": "1", "target": "31", "value": 1},
+    
         {"source": "2", "target": "22", "value": 1},
+    
         {"source": "3", "target": "12", "value": 1},
         {"source": "3", "target": "13", "value": 1},
         {"source": "3", "target": "14", "value": 1},
@@ -437,8 +439,10 @@
         {"source": "3", "target": "23", "value": 1},
         {"source": "3", "target": "26", "value": 1},
         {"source": "3", "target": "29", "value": 1},
+    
         {"source": "4", "target": "15", "value": 1},
         {"source": "4", "target": "29", "value": 1},
+    
         {"source": "5", "target": "20", "value": 1},
         {"source": "5", "target": "21", "value": 1},
         {"source": "5", "target": "24", "value": 22},

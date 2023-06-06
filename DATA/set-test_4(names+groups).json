@@ -1,5 +1,5 @@
 {
-    "nodes": [
+  "nodes": [
       {
         "id": 1,
         "eventName/title": "Libby Leshgold Gallery",
@@ -34,7 +34,7 @@
         "description": "",
         "associations": "",
         "group": 2,
-        "size": 25
+        "size": 20
       },
       {
         "id": 5,
@@ -43,7 +43,7 @@
         "description": "",
         "associations": "",
         "group": 2,
-        "size": 25
+        "size": 20
       },
       {
         "id": 6,
@@ -52,7 +52,7 @@
         "description": "",
         "associations": "",
         "group": 2,
-        "size": 25
+        "size": 20
       },
       {
         "id": 7,
@@ -61,7 +61,7 @@
         "description": "",
         "associations": "",
         "group": 2,
-        "size": 25
+        "size": 20
       },
       {
         "id": 8,
@@ -70,7 +70,7 @@
         "description": "",
         "associations": "",
         "group": 2,
-        "size": 25
+        "size": 20
       },
       {
         "id": 9,
@@ -375,9 +375,21 @@
         "projects": "",
         "group": 5,
         "size": 8
-        },
+        }
     ],
-  "links": [
-        {"source": "Libby Leshgold Gallery", "target": "Maureen Gruben: QULLIQ", "value": 1}
+  "links": [        
+        {"source": "1", "target": "31", "value": 1},
+        {"source": "2", "target": "22", "value": 1},
+        {"source": "3", "target": "12", "value": 1},
+        {"source": "3", "target": "13", "value": 1},
+        {"source": "3", "target": "14", "value": 1},
+        {"source": "3", "target": "17", "value": 1},
+        {"source": "3", "target": "18", "value": 1},
+        {"source": "3", "target": "22", "value": 1},
+        {"source": "3", "target": "23", "value": 1},
+        {"source": "3", "target": "26", "value": 1},
+        {"source": "3", "target": "29", "value": 1},
+        {"source": "4", "target": "15", "value": 1},
+        {"source": "4", "target": "29", "value": 1}
   ]
 }

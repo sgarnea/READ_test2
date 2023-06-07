@@ -114,7 +114,7 @@
       },
       {
         "id": 12,
-        "eventName/title": "Modern Optical Experiments in Typography: Univers Ultra Light Oblique",
+        "name": "Modern Optical Experiments in Typography: Univers Ultra Light Oblique",
         "authorPrimary": ["Mark Soo", "Tim Lee"],
         "authorOtherParticipants": ["Christoph Keller", "Kathy Slade"],
         "location": "Charles H. Scott Gallery",
@@ -126,7 +126,7 @@
       },
       {
         "id": 13,
-        "eventName/title": "Aunt Maud's Scrapbook",
+        "name": "Aunt Maud's Scrapbook",
         "authorPrimary": "Sydney Hermant",
         "authorOtherParticipants": ["Christoph Keller", "Kathy Slade"],
         "location": "Charles H. Scott Gallery",
@@ -138,7 +138,7 @@
       },
       {
         "id": 14,
-        "eventName/title": ["This is the Only Living I've Got (Don't Take It Away From Me): The Rodney Graham Songbook"],
+        "name": ["This is the Only Living I've Got (Don't Take It Away From Me): The Rodney Graham Songbook"],
         "authorPrimary": "Rodney Graham",
         "authorOtherParticipants": ["Christoph Keller", "Kathy Slade"],
         "location": "Charles H. Scott Gallery",
@@ -150,7 +150,7 @@
       },
       {
         "id": 15,
-        "eventName/title ": "READ Edition 1",
+        "name": "READ Edition 1",
         "authorPrimary": ["Fiona Banner", "Dan Graham", "Brian Jungen", "Myfanwy MacLeod", "Jonathan Monk", "Shannon Oksanen", "Peter Piller", "Frances Stark", "Michael Stevenson", "Ron Terada"],
         "authorOtherParticipants": "",
         "location": "",
@@ -162,7 +162,7 @@
       },
       {
         "id": 16,
-        "eventName/title ": "Selected Standards",
+        "name": "Selected Standards",
         "authorPrimary": "Euan Macdonald",
         "authorOtherParticipants": "",
         "location": "",
@@ -174,7 +174,7 @@
       },
       {
         "id": 17,
-        "eventName/title ": "Visible Heavens from 1850–2008",
+        "name": "Visible Heavens from 1850–2008",
         "authorPrimary": "Andrew Dadson",
         "authorOtherParticipants": "Kathy Slade",
         "location": "Charles H. Scott Gallery",
@@ -186,7 +186,7 @@
       },
       {
         "id": 18,
-        "eventName/title ": "Odessa Staircase Redux ",
+        "name": "Odessa Staircase Redux ",
         "authorPrimary": "Kota Ezawa",
         "authorOtherParticipants": "",
         "location": "Charles H. Scott Gallery",
@@ -198,7 +198,7 @@
       },
       {
         "id": 19,
-        "eventName/title ": "Elizabeth McIntosh",
+        "name": "Elizabeth McIntosh",
         "authorPrimary": ["Jan Verwoert", "Monika Szewczyk"],
         "authorOtherParticipants": "",
         "location": "",
@@ -210,7 +210,7 @@
       },
       {
         "id": 20,
-        "eventName/title ": "Sensory Maps",
+        "name": "Sensory Maps",
         "authorPrimary": "Anna Ruth",
         "authorOtherParticipants": "David MacWilliam",
         "location": "Emily Carr University of Art + Design",
@@ -222,7 +222,7 @@
       },
       {
         "id": 21,
-        "eventName/title ": "WestWays",
+        "name": "WestWays",
         "authorPrimary": ["Rita McBride", "Matthew Licht"],
         "authorOtherParticipants": "",
         "location": "",
@@ -234,7 +234,7 @@
       },
       {
         "id": 22,
-        "eventName/title ": "Elspeth Pratt",
+        "name": "Elspeth Pratt",
         "authorPrimary": "Kathy Slade",
         "authorOtherParticipants": "",
         "location": "Emily Carr University of Art + Design",
@@ -246,7 +246,7 @@
       },
       {
         "id": 23,
-        "eventName/title ": "Fallow",
+        "name": "Fallow",
         "authorPrimary": "Germaine Koh",
         "authorOtherParticipants": "",
         "location": "",
@@ -258,7 +258,7 @@
       },
       {
         "id": 24,
-        "eventName/title ": "After Euphoria",
+        "name": "After Euphoria",
         "authorPrimary": "Jeff Derksen",
         "authorOtherParticipants": "",
         "location": "",
@@ -270,7 +270,7 @@
       },
       {
         "id": 25,
-        "eventName/title ": ["Nuggets: New and Old Writing on Art, Architecture and Culture"],
+        "name": ["Nuggets: New and Old Writing on Art, Architecture and Culture"],
         "authorPrimary": "Dan Graham",
         "authorOtherParticipants": "",
         "location": "",
@@ -282,7 +282,7 @@
       },
       {
         "id": 26,
-        "eventName/title ": ["Ecart (1969–1980)"],
+        "name": ["Ecart (1969–1980)"],
         "authorPrimary": ["John Armleder", "Lionel Bovier"],
         "authorOtherParticipants": "",
         "location": "",
@@ -294,7 +294,7 @@
       },
       {
         "id": 27,
-        "eventName/title ": ["Steve’s Vinyl"],
+        "name": ["Steve’s Vinyl"],
         "authorPrimary": "Cathy Busby",
         "authorOtherParticipants": "",
         "location": "",
@@ -306,7 +306,7 @@
       },
       {
         "id": 28,
-        "eventName/title ": ["DRAWINGS 1,2,3"],
+        "name": ["DRAWINGS 1,2,3"],
         "authorPrimary": "Garry Neill Kennedy",
         "authorOtherParticipants": "",
         "location": "",
@@ -318,7 +318,7 @@
       },
       {
         "id": 29,
-        "eventName/title ": ["Neil Wedman: Selected Monochromatic Paintings and Works on Paper"],
+        "name": ["Neil Wedman: Selected Monochromatic Paintings and Works on Paper"],
         "authorPrimary": "Neil Wedman",
         "authorOtherParticipants": "",
         "location": "",
@@ -330,7 +330,7 @@
       },
       {
         "id": 30,
-        "eventName/title ": ["UJ3RK5: Live From The Commodore Ballroom"],
+        "name": ["UJ3RK5: Live From The Commodore Ballroom"],
         "authorPrimary": "UJ3RK5",
         "authorOtherParticipants": "",
         "location": "",
@@ -342,7 +342,7 @@
       },
       {
         "id": 31,
-        "eventName/title ": ["Maureen Gruben: QULLIQ"],
+        "name": ["Maureen Gruben: QULLIQ"],
         "authorPrimary": "Maureen Gruben",
         "authorOtherParticipants": "",
         "location": "",
@@ -354,7 +354,7 @@
       },
       {
         "id": 32,
-        "eventName/title ": ["Against Ageism, A Queer Manifesto"],
+        "name": ["Against Ageism, A Queer Manifesto"],
         "authorPrimary": "Simon(e) van Saarloos",
         "authorOtherParticipants": "",
         "location": "",

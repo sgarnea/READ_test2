@@ -102,6 +102,16 @@
       },
       {
         "id": 11,
+        "name": "JRP|Ringier",
+        "location": "",
+        "description": "",
+        "associations": "",
+        "projects": "",
+        "group": 2,
+        "size": 20
+      },
+      {
+        "id": 12,
         "eventName/title": ["Vancouver, British Columbia, Canada"],
         "authorPrimary": ["Brady Cranfield, Christoph Keller, and Kathy Slade"],
         "authorOtherParticipants": ["UJ3RK5 (Colin Griffiths, Danice MacLeod, Frank Ramirez, Ian Wallace (2), Jeff Wall, Kitty Byrne, Rodney Graham)", "Hello Blue Roses (Sydney Hermant, Sydney Vermont, Daniel Bejar)", "Pink Mountaintops", "The Book of Lists", "Kevin Schmidt", "Damian Moppet", "Steve Balogh (from Anemones)", "The Battles (Scott Morgan, Steve Wood, Tim Loewen)", "Lightning Dust (Amber Webber, Joshua Wells)", "The Book Of Lists (Brady Cranfield, Chris Frey)", "The Choir Practice (Coco Culbertson, Ida Nilsen, Jennifer Chycoski, Kristen Halliday, Larissa Loyva, Marcy Emery, Olivia Fetherstonhaugh, Scott 'Ska-T' Stewart, Shane Turner, Shira Blustein, Sydney Vermont)", "The Evaporators (David Carswell, John Collins (3), Nardwuar The Human Serviette, Scott Livingstone, Stephen Hamm)", "Good Horsey (Justice Schanfarber, Mark Szabo, Max Lee)", "Rodney Graham Band (Peter Bourne, Rodney Graham)", "Ida Nilsen", "Shannon Oskanen & Scott Livingstone", "Pink Mountaintops (Florian Schanze, Keith Parry, Mike Maxymuik, Sar Friedman)", "Superconductor (A.C. Newman, Gunnar (24))", "Keith Parry", "Mike Kerley", "Mike Rohaly", "Pat Hogue", "Scott Gubbels", "Sean Elliott)"],
@@ -113,7 +123,7 @@
         "size": 15
       },
       {
-        "id": 12,
+        "id": 13,
         "name": "Modern Optical Experiments in Typography: Univers Ultra Light Oblique",
         "authorPrimary": ["Mark Soo", "Tim Lee"],
         "authorOtherParticipants": ["Christoph Keller", "Kathy Slade"],
@@ -125,7 +135,7 @@
         "size": 15
       },
       {
-        "id": 13,
+        "id": 14,
         "name": "Aunt Maud's Scrapbook",
         "authorPrimary": "Sydney Hermant",
         "authorOtherParticipants": ["Christoph Keller", "Kathy Slade"],
@@ -137,7 +147,7 @@
         "size": 15
       },
       {
-        "id": 14,
+        "id": 15,
         "name": ["This is the Only Living I've Got (Don't Take It Away From Me): The Rodney Graham Songbook"],
         "authorPrimary": "Rodney Graham",
         "authorOtherParticipants": ["Christoph Keller", "Kathy Slade"],
@@ -149,7 +159,7 @@
         "size": 15
       },
       {
-        "id": 15,
+        "id": 16,
         "name": "READ Edition 1",
         "authorPrimary": ["Fiona Banner", "Dan Graham", "Brian Jungen", "Myfanwy MacLeod", "Jonathan Monk", "Shannon Oksanen", "Peter Piller", "Frances Stark", "Michael Stevenson", "Ron Terada"],
         "authorOtherParticipants": "",
@@ -161,7 +171,7 @@
         "size": 15
       },
       {
-        "id": 16,
+        "id": 17,
         "name": "Selected Standards",
         "authorPrimary": "Euan Macdonald",
         "authorOtherParticipants": "",
@@ -173,7 +183,7 @@
         "size": 15
       },
       {
-        "id": 17,
+        "id": 18,
         "name": "Visible Heavens from 1850–2008",
         "authorPrimary": "Andrew Dadson",
         "authorOtherParticipants": "Kathy Slade",
@@ -185,7 +195,7 @@
         "size": 15
       },
       {
-        "id": 18,
+        "id": 19,
         "name": "Odessa Staircase Redux ",
         "authorPrimary": "Kota Ezawa",
         "authorOtherParticipants": "",
@@ -197,7 +207,7 @@
         "size": 15
       },
       {
-        "id": 19,
+        "id": 20,
         "name": "Elizabeth McIntosh",
         "authorPrimary": ["Jan Verwoert", "Monika Szewczyk"],
         "authorOtherParticipants": "",
@@ -209,7 +219,7 @@
         "size": 15
       },
       {
-        "id": 20,
+        "id": 21,
         "name": "Sensory Maps",
         "authorPrimary": "Anna Ruth",
         "authorOtherParticipants": "David MacWilliam",
@@ -221,7 +231,7 @@
         "size": 15
       },
       {
-        "id": 21,
+        "id": 22,
         "name": "WestWays",
         "authorPrimary": ["Rita McBride", "Matthew Licht"],
         "authorOtherParticipants": "",
@@ -233,7 +243,7 @@
         "size": 15
       },
       {
-        "id": 22,
+        "id": 23,
         "name": "Elspeth Pratt",
         "authorPrimary": "Kathy Slade",
         "authorOtherParticipants": "",
@@ -245,7 +255,7 @@
         "size": 15
       },
       {
-        "id": 23,
+        "id": 24,
         "name": "Fallow",
         "authorPrimary": "Germaine Koh",
         "authorOtherParticipants": "",
@@ -257,7 +267,7 @@
         "size": 15
       },
       {
-        "id": 24,
+        "id": 25,
         "name": "After Euphoria",
         "authorPrimary": "Jeff Derksen",
         "authorOtherParticipants": "",
@@ -269,7 +279,7 @@
         "size": 15
       },
       {
-        "id": 25,
+        "id": 26,
         "name": ["Nuggets: New and Old Writing on Art, Architecture and Culture"],
         "authorPrimary": "Dan Graham",
         "authorOtherParticipants": "",
@@ -281,7 +291,7 @@
         "size": 15
       },
       {
-        "id": 26,
+        "id": 27,
         "name": ["Ecart (1969–1980)"],
         "authorPrimary": ["John Armleder", "Lionel Bovier"],
         "authorOtherParticipants": "",
@@ -293,7 +303,7 @@
         "size": 15
       },
       {
-        "id": 27,
+        "id": 28,
         "name": ["Steve’s Vinyl"],
         "authorPrimary": "Cathy Busby",
         "authorOtherParticipants": "",
@@ -305,7 +315,7 @@
         "size": 15
       },
       {
-        "id": 28,
+        "id": 29,
         "name": ["DRAWINGS 1,2,3"],
         "authorPrimary": "Garry Neill Kennedy",
         "authorOtherParticipants": "",
@@ -317,7 +327,7 @@
         "size": 15
       },
       {
-        "id": 29,
+        "id": 30,
         "name": ["Neil Wedman: Selected Monochromatic Paintings and Works on Paper"],
         "authorPrimary": "Neil Wedman",
         "authorOtherParticipants": "",
@@ -329,7 +339,7 @@
         "size": 15
       },
       {
-        "id": 30,
+        "id": 31,
         "name": ["UJ3RK5: Live From The Commodore Ballroom"],
         "authorPrimary": "UJ3RK5",
         "authorOtherParticipants": "",
@@ -341,7 +351,7 @@
         "size": 15
       },
       {
-        "id": 31,
+        "id": 32,
         "name": ["Maureen Gruben: QULLIQ"],
         "authorPrimary": "Maureen Gruben",
         "authorOtherParticipants": "",
@@ -353,7 +363,7 @@
         "size": 15
       },
       {
-        "id": 32,
+        "id": 33,
         "name": ["Against Ageism, A Queer Manifesto"],
         "authorPrimary": "Simon(e) van Saarloos",
         "authorOtherParticipants": "",
@@ -365,56 +375,542 @@
         "size": 15
       },
       {
-        "id": 33,
+        "id": 34,
         "name": "Kathy Slade",
         "location": "",
-        "description": "",
+        "website": "",
         "associations": "",
         "projects": "",
         "group": 4,
         "size": 8
         },
       {
-        "id": 34,
+        "id": 35,
         "name": "Cate Rimmer",
         "location": "",
-        "description": "",
+        "website": "",
         "associations": "",
         "projects": "",
         "group": 4,
         "size": 8
         },
        {
-        "id": 35,
+        "id": 36,
         "name": "David MacWilliam",
         "location": "",
-        "description": "",
+        "website": "",
         "associations": "",
         "projects": "",
         "group": 4,
         "size": 8
         },
       {
-        "id": 36,
+        "id": 37,
         "name": "Rodney Graham",
         "location": "",
-        "description": "",
+        "website": "",
         "associations": "",
         "projects": "",
         "group": 4,
         "size": 8
         }
         {
-      "id": 37,
-      "name": "Brady Cranfield",
-      "location": "",
-      "website": "",
-      "associations": "",
-      "projects": "",
-      "group": 4,
-      "size": 8
-      }
+        "id": 38,
+        "name": "Brady Cranfield",
+        "location": "",
+        "website": "",
+        "associations": "",
+        "projects": "",
+        "group": 4,
+        "size": 8
+        }
+        {
+        "id": 39,
+        "name": "Mark Soo",
+        "location": "",
+        "website": "",
+        "associations": "",
+        "projects": "",
+        "group": 4,
+        "size": 8
+        }
+        {
+        "id": 40,
+        "name": "Tim Lee",
+        "location": "",
+        "website": "",
+        "associations": "",
+        "projects": "",
+        "group": 4,
+        "size": 8
+        }    
+                {
+        "id": 41,
+        "name": "Sydney Hermant",
+        "location": "",
+        "website": "",
+        "associations": "",
+        "projects": "",
+        "group": 4,
+        "size": 8
+        }
+        {
+        "id": 42,
+        "name": "Christoph Keller",
+        "location": "",
+        "website": "",
+        "associations": "",
+        "projects": "",
+        "group": 4,
+        "size": 8
+        } 
+        {
+        "id": 43,
+        "name": "Fiona Banner",
+        "location": "",
+        "website": "",
+        "associations": "",
+        "projects": "",
+        "group": 4,
+        "size": 8
+        }
+        {
+        "id": 44,
+        "name": "Dan Graham",
+        "location": "",
+        "website": "",
+        "associations": "",
+        "projects": "",
+        "group": 4,
+        "size": 8
+        } 
+        {
+        "id": 45,
+        "name": "Brian Jungen",
+        "location": "",
+        "website": "",
+        "associations": "",
+        "projects": "",
+        "group": 4,
+        "size": 8
+        }
+        {
+        "id": 46,
+        "name": "Myfanwy MacLeod",
+        "location": "",
+        "website": "",
+        "associations": "",
+        "projects": "",
+        "group": 4,
+        "size": 8
+        } 
+                {
+        "id": 47,
+        "name": "Jonathan Monk",
+        "location": "",
+        "website": "",
+        "associations": "",
+        "projects": "",
+        "group": 4,
+        "size": 8
+        }
+        {
+        "id": 48,
+        "name": "Michael Stevenson",
+        "location": "",
+        "website": "",
+        "associations": "",
+        "projects": "",
+        "group": 4,
+        "size": 8
+        }
+        {
+        "id": 49,
+        "name": "Peter Piller",
+        "location": "",
+        "website": "",
+        "associations": "",
+        "projects": "",
+        "group": 4,
+        "size": 8
+        }
+        {
+        "id": 50,
+        "name": "Frances Stark",
+        "location": "",
+        "website": "",
+        "associations": "",
+        "projects": "",
+        "group": 4,
+        "size": 8
+        }
+        {
+        "id": 51,
+        "name": "Michael Stevenson",
+        "location": "",
+        "website": "",
+        "associations": "",
+        "projects": "",
+        "group": 4,
+        "size": 8
+        }
+        {
+        "id": 52,
+        "name": "Ron Terada",
+        "location": "",
+        "website": "",
+        "associations": "",
+        "projects": "",
+        "group": 4,
+        "size": 8
+        }
+        {
+        "id": 53,
+        "name": "Euan Macdonald",
+        "location": "",
+        "website": "",
+        "associations": "",
+        "projects": "",
+        "group": 4,
+        "size": 8
+        }
+        {
+        "id": 54,
+        "name": "Andrew Dadson",
+        "location": "",
+        "website": "",
+        "associations": "",
+        "projects": "",
+        "group": 4,
+        "size": 8
+        }
+        {
+        "id": 55,
+        "name": "Kota Ezawa",
+        "location": "",
+        "website": "",
+        "associations": "",
+        "projects": "",
+        "group": 4,
+        "size": 8
+        }
+        {
+        "id": 56,
+        "name": "Elizabeth McIntosh",
+        "location": "",
+        "website": "",
+        "associations": "",
+        "projects": "",
+        "group": 4,
+        "size": 8
+        }
+        {
+        "id": 57,
+        "name": "Jan Verwoert",
+        "location": "",
+        "website": "",
+        "associations": "",
+        "projects": "",
+        "group": 4,
+        "size": 8
+        }
+        {
+        "id": 58,
+        "name": "Monika Szewczyk",
+        "location": "",
+        "website": "",
+        "associations": "",
+        "projects": "",
+        "group": 4,
+        "size": 8
+        }
+        {
+        "id": 59,
+        "name": "Anna Ruth",
+        "location": "",
+        "website": "",
+        "associations": "",
+        "projects": "",
+        "group": 4,
+        "size": 8
+        }
+        {
+        "id": 60,
+        "name": "Rita McBride",
+        "location": "",
+        "website": "",
+        "associations": "",
+        "projects": "",
+        "group": 4,
+        "size": 8
+        }
+        {
+        "id": 61,
+        "name": "Matthew Licht",
+        "location": "",
+        "website": "",
+        "associations": "",
+        "projects": "",
+        "group": 4,
+        "size": 8
+        }
+        {
+        "id": 62,
+        "name": "Elsbeth Pratt",
+        "location": "",
+        "website": "",
+        "associations": "",
+        "projects": "",
+        "group": 4,
+        "size": 8
+        }
+        {
+        "id": 63,
+        "name": "Lorna Brown",
+        "location": "",
+        "website": "",
+        "associations": "",
+        "projects": "",
+        "group": 4,
+        "size": 8
+        }
+        {
+        "id": 64,
+        "name": "Lisa Robertson",
+        "location": "",
+        "website": "",
+        "associations": "",
+        "projects": "",
+        "group": 4,
+        "size": 8
+        }
+        {
+        "id": 65,
+        "name": "Bitter/Webber",
+        "location": "",
+        "website": "",
+        "associations": "",
+        "projects": "",
+        "group": 4,
+        "size": 8
+        }
+        {
+        "id": 66,
+        "name": "Matthew Stadler",
+        "location": "",
+        "website": "",
+        "associations": "",
+        "projects": "",
+        "group": 4,
+        "size": 8
+        }
+        {
+        "id": 67,
+        "name": "Oliver Neumann",
+        "location": "",
+        "website": "",
+        "associations": "",
+        "projects": "",
+        "group": 4,
+        "size": 8
+        }
+        {
+        "id": 68,
+        "name": "Stephanie Snyder",
+        "location": "",
+        "website": "",
+        "associations": "",
+        "projects": "",
+        "group": 4,
+        "size": 8
+        }
+        {
+        "id": 69,
+        "name": "Germaine Koh",
+        "location": "",
+        "website": "",
+        "associations": "",
+        "projects": "",
+        "group": 4,
+        "size": 8
+        }
+        {
+        "id": 70,
+        "name": "Jeff Derksen",
+        "location": "",
+        "website": "",
+        "associations": "",
+        "projects": "",
+        "group": 4,
+        "size": 8
+        }
+        {
+        "id": 71,
+        "name": "Itsuko Hasegawa",
+        "location": "",
+        "website": "",
+        "associations": "",
+        "projects": "",
+        "group": 4,
+        "size": 8
+        }
+        {
+        "id": 72,
+        "name": "John Armleder",
+        "location": "",
+        "website": "",
+        "associations": "",
+        "projects": "",
+        "group": 4,
+        "size": 8
+        }
+        {
+        "id": 73,
+        "name": "Lionel Bovier",
+        "location": "",
+        "website": "",
+        "associations": "",
+        "projects": "",
+        "group": 4,
+        "size": 8
+        }
+        {
+        "id": 74,
+        "name": "Cathy Busby",
+        "location": "",
+        "website": "",
+        "associations": "",
+        "projects": "",
+        "group": 4,
+        "size": 8
+        }
+        {
+        "id": 75,
+        "name": "Garry Neill Kennedy",
+        "location": "",
+        "website": "",
+        "associations": "",
+        "projects": "",
+        "group": 4,
+        "size": 8
+        }
+        {
+        "id": 76,
+        "name": "Neil Wedman",
+        "location": "",
+        "website": "",
+        "associations": "",
+        "projects": "",
+        "group": 4,
+        "size": 8
+        }
+        {
+        "id": 77,
+        "name": "Patrik Andersson",
+        "location": "",
+        "website": "",
+        "associations": "",
+        "projects": "",
+        "group": 4,
+        "size": 8
+        }
+        {
+        "id": 78,
+        "name": "Kate Nobel",
+        "location": "",
+        "website": "",
+        "associations": "",
+        "projects": "",
+        "group": 4,
+        "size": 8
+        }
+        {
+        "id": 79,
+        "name": "Maureen Gruben",
+        "location": "",
+        "website": "",
+        "associations": "",
+        "projects": "",
+        "group": 4,
+        "size": 8
+        }
+        {
+        "id": 80,
+        "name": "Kyra Kordoski",
+        "location": "",
+        "website": "",
+        "associations": "",
+        "projects": "",
+        "group": 4,
+        "size": 8
+        }
+        {
+        "id": 81,
+        "name": "Trah Hogue",
+        "location": "",
+        "website": "",
+        "associations": "",
+        "projects": "",
+        "group": 4,
+        "size": 8
+        }
+        {
+        "id": 82,
+        "name": "Tania Willard",
+        "location": "",
+        "website": "",
+        "associations": "",
+        "projects": "",
+        "group": 4,
+        "size": 8
+        }
+        {
+        "id": 83,
+        "name": "Simon(e) van Saarloos",
+        "location": "",
+        "website": "",
+        "associations": "",
+        "projects": "",
+        "group": 4,
+        "size": 8
+        }
+        {
+        "id": 84,
+        "name": "Samantha Nye",
+        "location": "",
+        "website": "",
+        "associations": "",
+        "projects": "",
+        "group": 4,
+        "size": 8
+        }
+      
+      
+        {
+        "id": 85,
+        "name": "UJ3RK5",
+        "location": "",
+        "website": "",
+        "associations": "",
+        "projects": "",
+        "group": 5,
+        "size": 8
+        }
+              {
+        "id": 86,
+        "name": "Primary Information",
+        "location": "",
+        "website": "",
+        "associations": "",
+        "projects": "",
+        "group": 5,
+        "size": 8
+        }
     ],
+    
+    
+    
+    
     
   "links": [        
         {"source": "1", "target": "31", "value": 1},

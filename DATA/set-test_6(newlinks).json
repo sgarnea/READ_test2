@@ -404,7 +404,18 @@
         "group": 4,
         "size": 8
         }
+        {
+      "id": 37,
+      "name": "Brady Cranfield",
+      "location": "",
+      "website": "",
+      "associations": "",
+      "projects": "",
+      "group": 4,
+      "size": 8
+      }
     ],
+    
   "links": [        
         {"source": "1", "target": "31", "value": 1},
     

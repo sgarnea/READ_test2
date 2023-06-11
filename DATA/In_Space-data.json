@@ -404,7 +404,7 @@
         "group": 4,
         "size": 8
         },
-      {
+       {
         "id": 37,
         "name": "Rodney Graham",
         "location": "",
@@ -413,8 +413,8 @@
         "projects": "",
         "group": 4,
         "size": 8
-        }
-        {
+        },
+       {
         "id": 38,
         "name": "Brady Cranfield",
         "location": "",
@@ -423,8 +423,8 @@
         "projects": "",
         "group": 4,
         "size": 8
-        }
-        {
+        },
+       {
         "id": 39,
         "name": "Mark Soo",
         "location": "",
@@ -433,8 +433,8 @@
         "projects": "",
         "group": 4,
         "size": 8
-        }
-        {
+        },
+       {
         "id": 40,
         "name": "Tim Lee",
         "location": "",
@@ -443,8 +443,8 @@
         "projects": "",
         "group": 4,
         "size": 8
-        }    
-                {
+        },    
+       {
         "id": 41,
         "name": "Sydney Hermant",
         "location": "",
@@ -453,8 +453,8 @@
         "projects": "",
         "group": 4,
         "size": 8
-        }
-        {
+        },
+       {
         "id": 42,
         "name": "Christoph Keller",
         "location": "",
@@ -463,7 +463,7 @@
         "projects": "",
         "group": 4,
         "size": 8
-        } 
+        }, 
         {
         "id": 43,
         "name": "Fiona Banner",
@@ -473,7 +473,7 @@
         "projects": "",
         "group": 4,
         "size": 8
-        }
+        },
         {
         "id": 44,
         "name": "Dan Graham",
@@ -483,7 +483,7 @@
         "projects": "",
         "group": 4,
         "size": 8
-        } 
+        },
         {
         "id": 45,
         "name": "Brian Jungen",
@@ -493,7 +493,7 @@
         "projects": "",
         "group": 4,
         "size": 8
-        }
+        },
         {
         "id": 46,
         "name": "Myfanwy MacLeod",
@@ -503,7 +503,7 @@
         "projects": "",
         "group": 4,
         "size": 8
-        } 
+        }, 
                 {
         "id": 47,
         "name": "Jonathan Monk",
@@ -513,7 +513,7 @@
         "projects": "",
         "group": 4,
         "size": 8
-        }
+        },
         {
         "id": 48,
         "name": "Michael Stevenson",
@@ -523,7 +523,7 @@
         "projects": "",
         "group": 4,
         "size": 8
-        }
+        },
         {
         "id": 49,
         "name": "Peter Piller",
@@ -533,7 +533,7 @@
         "projects": "",
         "group": 4,
         "size": 8
-        }
+        },
         {
         "id": 50,
         "name": "Frances Stark",
@@ -543,7 +543,7 @@
         "projects": "",
         "group": 4,
         "size": 8
-        }
+        },
         {
         "id": 51,
         "name": "Michael Stevenson",
@@ -553,7 +553,7 @@
         "projects": "",
         "group": 4,
         "size": 8
-        }
+        },
         {
         "id": 52,
         "name": "Ron Terada",
@@ -563,7 +563,7 @@
         "projects": "",
         "group": 4,
         "size": 8
-        }
+        },
         {
         "id": 53,
         "name": "Euan Macdonald",
@@ -573,7 +573,7 @@
         "projects": "",
         "group": 4,
         "size": 8
-        }
+        },
         {
         "id": 54,
         "name": "Andrew Dadson",
@@ -583,7 +583,7 @@
         "projects": "",
         "group": 4,
         "size": 8
-        }
+        },
         {
         "id": 55,
         "name": "Kota Ezawa",
@@ -593,7 +593,7 @@
         "projects": "",
         "group": 4,
         "size": 8
-        }
+        },
         {
         "id": 56,
         "name": "Elizabeth McIntosh",
@@ -603,7 +603,7 @@
         "projects": "",
         "group": 4,
         "size": 8
-        }
+        },
         {
         "id": 57,
         "name": "Jan Verwoert",
@@ -613,7 +613,7 @@
         "projects": "",
         "group": 4,
         "size": 8
-        }
+        },
         {
         "id": 58,
         "name": "Monika Szewczyk",
@@ -623,7 +623,7 @@
         "projects": "",
         "group": 4,
         "size": 8
-        }
+        },
         {
         "id": 59,
         "name": "Anna Ruth",
@@ -633,7 +633,7 @@
         "projects": "",
         "group": 4,
         "size": 8
-        }
+        },
         {
         "id": 60,
         "name": "Rita McBride",
@@ -643,7 +643,7 @@
         "projects": "",
         "group": 4,
         "size": 8
-        }
+        },
         {
         "id": 61,
         "name": "Matthew Licht",
@@ -653,7 +653,7 @@
         "projects": "",
         "group": 4,
         "size": 8
-        }
+        },
         {
         "id": 62,
         "name": "Elsbeth Pratt",
@@ -663,7 +663,7 @@
         "projects": "",
         "group": 4,
         "size": 8
-        }
+        },
         {
         "id": 63,
         "name": "Lorna Brown",
@@ -673,7 +673,7 @@
         "projects": "",
         "group": 4,
         "size": 8
-        }
+        },
         {
         "id": 64,
         "name": "Lisa Robertson",
@@ -683,7 +683,7 @@
         "projects": "",
         "group": 4,
         "size": 8
-        }
+        },
         {
         "id": 65,
         "name": "Bitter/Webber",
@@ -693,7 +693,7 @@
         "projects": "",
         "group": 4,
         "size": 8
-        }
+        },
         {
         "id": 66,
         "name": "Matthew Stadler",
@@ -703,7 +703,7 @@
         "projects": "",
         "group": 4,
         "size": 8
-        }
+        },
         {
         "id": 67,
         "name": "Oliver Neumann",
@@ -713,7 +713,7 @@
         "projects": "",
         "group": 4,
         "size": 8
-        }
+        },
         {
         "id": 68,
         "name": "Stephanie Snyder",
@@ -723,7 +723,7 @@
         "projects": "",
         "group": 4,
         "size": 8
-        }
+        },
         {
         "id": 69,
         "name": "Germaine Koh",
@@ -733,7 +733,7 @@
         "projects": "",
         "group": 4,
         "size": 8
-        }
+        },
         {
         "id": 70,
         "name": "Jeff Derksen",
@@ -743,7 +743,7 @@
         "projects": "",
         "group": 4,
         "size": 8
-        }
+        },
         {
         "id": 71,
         "name": "Itsuko Hasegawa",
@@ -753,7 +753,7 @@
         "projects": "",
         "group": 4,
         "size": 8
-        }
+        },
         {
         "id": 72,
         "name": "John Armleder",
@@ -763,7 +763,7 @@
         "projects": "",
         "group": 4,
         "size": 8
-        }
+        },
         {
         "id": 73,
         "name": "Lionel Bovier",
@@ -773,7 +773,7 @@
         "projects": "",
         "group": 4,
         "size": 8
-        }
+        },
         {
         "id": 74,
         "name": "Cathy Busby",
@@ -783,7 +783,7 @@
         "projects": "",
         "group": 4,
         "size": 8
-        }
+        },
         {
         "id": 75,
         "name": "Garry Neill Kennedy",
@@ -793,7 +793,7 @@
         "projects": "",
         "group": 4,
         "size": 8
-        }
+        },
         {
         "id": 76,
         "name": "Neil Wedman",
@@ -803,7 +803,7 @@
         "projects": "",
         "group": 4,
         "size": 8
-        }
+        },
         {
         "id": 77,
         "name": "Patrik Andersson",
@@ -813,7 +813,7 @@
         "projects": "",
         "group": 4,
         "size": 8
-        }
+        },
         {
         "id": 78,
         "name": "Kate Nobel",
@@ -823,7 +823,7 @@
         "projects": "",
         "group": 4,
         "size": 8
-        }
+        },
         {
         "id": 79,
         "name": "Maureen Gruben",
@@ -833,7 +833,7 @@
         "projects": "",
         "group": 4,
         "size": 8
-        }
+        },
         {
         "id": 80,
         "name": "Kyra Kordoski",
@@ -843,7 +843,7 @@
         "projects": "",
         "group": 4,
         "size": 8
-        }
+        },
         {
         "id": 81,
         "name": "Trah Hogue",
@@ -853,7 +853,7 @@
         "projects": "",
         "group": 4,
         "size": 8
-        }
+        },
         {
         "id": 82,
         "name": "Tania Willard",
@@ -863,7 +863,7 @@
         "projects": "",
         "group": 4,
         "size": 8
-        }
+        },
         {
         "id": 83,
         "name": "Simon(e) van Saarloos",
@@ -873,7 +873,7 @@
         "projects": "",
         "group": 4,
         "size": 8
-        }
+        },
         {
         "id": 84,
         "name": "Samantha Nye",
@@ -883,7 +883,7 @@
         "projects": "",
         "group": 4,
         "size": 8
-        }
+        },
         {
         "id": 85,
         "name": "UJ3RK5",
@@ -893,7 +893,7 @@
         "projects": "",
         "group": 5,
         "size": 8
-        }
+        },
         {
         "id": 86,
         "name": "Primary Information",

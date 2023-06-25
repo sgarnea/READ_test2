@@ -495,15 +495,6 @@
         "size": 10
         },
         {
-        "id": "Michael Stevenson",
-        "location": "",
-        "website": "",
-        "associations": "",
-        "projects": "",
-        "group": 4,
-        "size": 10
-        },
-        {
         "id": "Ron Terada",
         "location": "",
         "website": "",
@@ -738,7 +729,7 @@
         "size": 10
         },
         {
-        "id": "Kate Nobel",
+        "id": "Kate Noble",
         "location": "",
         "website": "",
         "associations": "",
@@ -847,5 +838,144 @@
         {"source": "ECU Press", "target": "DRAWINGS 1,2,3", "value": 1},
         {"source": "ECU Press", "target": "Neil Wedman: Selected Monochromatic Paintings and Works on Paper", "value": 1},
         {"source": "ECU Press", "target": "UJ3RK5: Live From The Commodore Ballroom", "value": 1}
+
+        {"source": "Les presses du réel", "target": "After Euphoria", "value": 1}
+        {"source": "Les presses du réel", "target": "Nuggets: New and Old Writing on Art, Architecture and Culture", "value": 1}
+
+        {"source": "Visual Aids (New York)", "target": "Steve’s Vinyl", "value": 1}
+
+        {"source": "Publication Studio Vancouver", "target": "DRAWINGS 1,2,3", "value": 1}
+
+        {"source": "Art Metropole", "target": "DRAWINGS 1,2,3", "value": 1}
+
+        {"source": "ECU Press/Reflector", "target": "Against Ageism, A Queer Manifesto", "value": 1}
+
+        {"source": "JRP|Ringier", "target": "Selected Standards", "value": 1}
+        {"source": "JRP|Ringier", "target": "Visible Heavens from 1850–2008", "value": 1}
+        {"source": "JRP|Ringier", "target": "Odessa Staircase Redux", "value": 1}
+
+        {"source": "Kathy Slade", "target": "Vancouver, British Columbia, Canada", "value": 1}
+        {"source": "Kathy Slade", "target": "Modern Optical Experiments in Typography: Univers Ultra Light Oblique", "value": 1}
+        {"source": "Kathy Slade", "target": "Aunt Maud's Scrapbook", "value": 1}
+        {"source": "Kathy Slade", "target": "This is the Only Living I've Got (Don't Take It Away From Me): The Rodney Graham Songbook", "value": 1}
+        {"source": "Kathy Slade", "target": "Visible Heavens from 1850–2008", "value": 1}
+        {"source": "Kathy Slade", "target": "Elspeth Pratt", "value": 1}
+        {"source": "Kathy Slade", "target": "Fallow", "value": 1}
+        {"source": "Kathy Slade", "target": "Nuggets: New and Old Writing on Art, Architecture and Culture", "value": 1}
+
+
+        {"source": "Cate Rimmer", "target": "Fallow", "value": 1}
+        {"source": "Cate Rimmer", "target": "Maureen Gruben: QULLIQ", "value": 1}
+
+        {"source": "David MacWilliam", "target": "Sensory Maps", "value": 1}
+        {"source": "David MacWilliam", "target": "Steve's Vinyl", "value": 1}
+
+        {"source": "Rodney Graham", "target": "Vancouver, British Columbia, Canada", "value": 1}
+        {"source": "Rodney Graham", "target": "This is the Only Living I've Got (Don't Take It Away From Me): The Rodney Graham Songbook", "value": 1}
+
+        {"source": "Brady Cranfield", "target": "Vancouver, British Columbia, Canada", "value": 1}
+        {"source": "Brady Cranfield", "target": "Neil Wedman: Selected Monochromatic Paintings and Works on Paper", "value": 1}
+
+        {"source": "Mark Soo", "target": "Modern Optical Experiments in Typography: Univers Ultra Light Oblique", "value": 1}
+
+        {"source": "Tim Lee", "target": "Modern Optical Experiments in Typography: Univers Ultra Light Oblique", "value": 1}
+
+        {"source": "Sydney Hermant", "target": "Vancouver, British Columbia, Canada", "value": 1}
+        {"source": "Sydney Hermant", "target": "Aunt Maud's Scrapbook", "value": 1}
+        
+        {"source": "Christoph Keller", "target": "Vancouver, British Columbia, Canada", "value": 1}
+        {"source": "Christoph Keller", "target": "Modern Optical Experiments in Typography: Univers Ultra Light Oblique", "value": 1}
+        {"source": "Christoph Keller", "target": "Aunt Maud's Scrapbook", "value": 1}
+        {"source": "Christoph Keller", "target": "This is the Only Living I've Got (Don't Take It Away From Me): The Rodney Graham Songbook", "value": 1}
+
+        {"source": "Fiona Banner", "target": "READ Edition 1", "value": 1}
+
+        {"source": "Dan Graham", "target": "Vancouver, British Columbia, Canada", "value": 1}
+        {"source": "Dan Graham", "target": "This is the Only Living I've Got (Don't Take It Away From Me): The Rodney Graham Songbook", "value": 1}
+
+        {"source": "Brian Jungen", "target": "READ Edition 1", "value": 1}
+
+        {"source": "Myfanwy MacLeod", "target": "Vancouver, British Columbia, Canada", "value": 1}
+        {"source": "Myfanwy MacLeod", "target": "READ Edition 1", "value": 1}
+
+        {"source": "Jonathan Monk", "target": "READ Edition 1", "value": 1}
+
+        {"source": "Michael Stevenson", "target": "READ Edition 1", "value": 1}
+
+        {"source": "Peter Piller", "target": "READ Edition 1", "value": 1}
+
+        {"source": "Frances Stark", "target": "READ Edition 1", "value": 1}
+
+        {"source": "Ron Terada", "target": "READ Edition 1", "value": 1}
+
+        {"source": "Euan Macdonald", "target": "Selected Standards", "value": 1}
+
+        {"source": "Andrew Dadson", "target": "Visible Heavens from 1850–2008", "value": 1}
+
+        {"source": "Kota Ezawa", "target": "Odessa Staircase Redux", "value": 1}
+
+        {"source": "Elizabeth McIntosh", "target": "Elizabeth McIntosh", "value": 1}
+
+        {"source": "Jan Verwoert", "target": "Elizabeth McIntosh", "value": 1}
+
+        {"source": "Monika Szewczyk", "target": "Elizabeth McIntosh", "value": 1}
+
+        {"source": "Anna Ruth", "target": "Sensory Maps", "value": 1}
+
+        {"source": "Rita McBride", "target": "WestWays", "value": 1}
+
+        {"source": "Matthew Licht", "target": "WestWays", "value": 1}
+
+        {"source": "Elspeth Pratt", "target": "Elspeth Pratt", "value": 1}
+
+        {"source": "Lorna Brown", "target": "Elspeth Pratt", "value": 1}
+
+        {"source": "Lisa Robertson", "target": "Elspeth Pratt", "value": 1}
+
+        {"source": "Bitter/Webber", "target": "Elspeth Pratt", "value": 1}
+
+        {"source": "Matthew Stadler", "target": "Elspeth Pratt", "value": 1}
+
+        {"source": "Oliver Neumann", "target": "Elspeth Pratt", "value": 1}
+
+        {"source": "Stephanie Snyder", "target": "Elspeth Pratt", "value": 1}
+
+        {"source": "Germaine Koh", "target": "Fallow", "value": 1}
+
+        {"source": "Jeff Derksen", "target": "After Euphoria", "value": 1}
+
+        {"source": "Itsuko Hasegawa", "target": "Nuggets: New and Old Writing on Art, Architecture and Culture", "value": 1}
+
+        {"source": "John Armleder", "target": "Ecart (1969–1980)", "value": 1}
+
+        {"source": "Lionel Bovier", "target": "Ecart (1969–1980)", "value": 1}
+
+        {"source": "Cathy Busby", "target": "Steve’s Vinyl", "value": 1}
+
+        {"source": "Garry Neill Kennedy", "target": "DRAWINGS 1,2,3", "value": 1}
+
+        {"source": "Neil Wedman", "target": "Neil Wedman: Selected Monochromatic Paintings and Works on Paper", "value": 1}
+
+        {"source": "Patrik Andersson", "target": "Neil Wedman: Selected Monochromatic Paintings and Works on Paper", "value": 1}
+
+        {"source": "Kate Noble", "target": "Neil Wedman: Selected Monochromatic Paintings and Works on Paper", "value": 1}
+
+        {"source": "Maureen Gruben", "target": "Maureen Gruben: QULLIQ", "value": 1}
+
+        {"source": "Kyra Kordoski", "target": "Maureen Gruben: QULLIQ", "value": 1}
+
+        {"source": "Trah Hogue", "target": "Maureen Gruben: QULLIQ", "value": 1}
+
+        {"source": "Tania Willard", "target": "Maureen Gruben: QULLIQ", "value": 1}
+
+        {"source": "Simon(e) van Saarloos", "target": "Against Ageism, A Queer Manifesto", "value": 1}
+
+        {"source": "Samantha Nye", "target": "Against Ageism, A Queer Manifesto", "value": 1}
+
+        {"source": "UJ3RK5", "target": "Vancouver, British Columbia, Canada", "value": 1}
+        {"source": "UJ3RK5", "target": "UJ3RK5: Live From The Commodore Ballroom", "value": 1}
+        
+        {"source": "Primary Information", "target": "UJ3RK5: Live From The Commodore Ballroom", "value": 1}
+
   ]
 }

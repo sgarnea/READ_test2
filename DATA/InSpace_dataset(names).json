@@ -1,0 +1,851 @@
+{
+  "nodes": [
+      {
+        "id": "Libby Leshgold Gallery",
+        "location": "Vancouver, Canada",
+        "description": "",
+        "associations": "",
+        "projects": "",
+        "group": 1,
+        "size": 25
+      },
+      {
+        "id": "Cooley Gallery",
+        "location": "",
+        "description": "",
+        "associations": "",
+        "projects": "",
+        "group": 1,
+        "size": 25
+      },
+      {
+        "id": "Charles H. Scott Gallery",
+        "location": "",
+        "description": "",
+        "associations": "",
+        "projects": "",
+        "group": 1,
+        "size": 25
+      },
+      {
+        "id": "READ Books",
+        "location": "",
+        "description": "",
+        "associations": "",
+        "projects": "",
+        "group": 2,
+        "size": 20
+      },
+      {
+        "id": "ECU Press",
+        "location": "",
+        "description": "",
+        "associations": "",
+        "projects": "",
+        "group": 2,
+        "size": 20
+      },
+      {
+        "id": "Les presses du réel",
+        "location": "",
+        "description": "",
+        "associations": "",
+        "projects": "",
+        "group": 2,
+        "size": 20
+      },
+      {
+        "id": "Visual Aids (New York)",
+        "location": "",
+        "description": "",
+        "associations": "",
+        "projects": "",
+        "group": 2,
+        "size": 20
+      },
+      {
+        "id": "Publication Studio Vancouver",
+        "location": "",
+        "description": "",
+        "associations": "",
+        "projects": "",
+        "group": 2,
+        "size": 20
+      },
+      {
+        "id": "Art Metropole",
+        "location": "",
+        "description": "",
+        "associations": "",
+        "projects": "",
+        "group": 2,
+        "size": 20
+      },
+      {
+        "id": "ECU Press/Reflector",
+        "location": "",
+        "description": "",
+        "associations": "",
+        "projects": "",
+        "group": 2,
+        "size": 20
+      },
+      {
+        "id": "JRP|Ringier",
+        "location": "",
+        "description": "",
+        "associations": "",
+        "projects": "",
+        "group": 2,
+        "size": 20
+      },
+      {
+        "id": "Vancouver, British Columbia, Canada",
+        "authorPrimary": ["Brady Cranfield, Christoph Keller, and Kathy Slade"],
+        "authorOtherParticipants": ["UJ3RK5 (Colin Griffiths, Danice MacLeod, Frank Ramirez, Ian Wallace (2), Jeff Wall, Kitty Byrne, Rodney Graham)", "Hello Blue Roses (Sydney Hermant, Sydney Vermont, Daniel Bejar)", "Pink Mountaintops", "The Book of Lists", "Kevin Schmidt", "Damian Moppet", "Steve Balogh (from Anemones)", "The Battles (Scott Morgan, Steve Wood, Tim Loewen)", "Lightning Dust (Amber Webber, Joshua Wells)", "The Book Of Lists (Brady Cranfield, Chris Frey)", "The Choir Practice (Coco Culbertson, Ida Nilsen, Jennifer Chycoski, Kristen Halliday, Larissa Loyva, Marcy Emery, Olivia Fetherstonhaugh, Scott 'Ska-T' Stewart, Shane Turner, Shira Blustein, Sydney Vermont)", "The Evaporators (David Carswell, John Collins (3), Nardwuar The Human Serviette, Scott Livingstone, Stephen Hamm)", "Good Horsey (Justice Schanfarber, Mark Szabo, Max Lee)", "Rodney Graham Band (Peter Bourne, Rodney Graham)", "Ida Nilsen", "Shannon Oskanen & Scott Livingstone", "Pink Mountaintops (Florian Schanze, Keith Parry, Mike Maxymuik, Sar Friedman)", "Superconductor (A.C. Newman, Gunnar (24))", "Keith Parry", "Mike Kerley", "Mike Rohaly", "Pat Hogue", "Scott Gubbels", "Sean Elliott)"],
+        "location": "Vancouver",
+        "date": "2006",
+        "associations": "",
+        "summary": ["Publication. The Music Appreciation Society Presents: Vancouver, British Columbia, Canada is a CD compilation of songs recorded by local artists who are in bands and who use music in their practice. This project will make reference to the profound role popular music has played in the work of Vancouver artists in recent years."],
+        "group": 3,
+        "size": 15
+      },
+      {
+        "id": "Modern Optical Experiments in Typography: Univers Ultra Light Oblique",
+        "authorPrimary": ["Mark Soo", "Tim Lee"],
+        "authorOtherParticipants": ["Christoph Keller", "Kathy Slade"],
+        "location": "Charles H. Scott Gallery",
+        "date": "2006",
+        "associations": "",
+        "summary": ["Formally pushing the boundaries of what a book is, this project is blank except for four printed pages containing the text 'Think', 'Fast', 'Hip', and 'pies' set in Univers. Focusing on the year 1968, the artists pull seemingly disparate events together, celebrating 1968 as an important year in Hippie Subculture."],
+        "group": 3,
+        "size": 15
+      },
+      {
+        "id": "Aunt Maud's Scrapbook",
+        "authorPrimary": "Sydney Hermant",
+        "authorOtherParticipants": ["Christoph Keller", "Kathy Slade"],
+        "location": "Charles H. Scott Gallery",
+        "date": "2006",
+        "associations": "",
+        "summary": ["Aunt Maud is a tertiary character in Vladimir Nabokov's 1962 novel Pale Fire, described as a mediocre painter and scrapbook artist. Hermant brings Maud new life by materializing her scrapbook in the form of a cutting-edge artist's book."],
+        "group": 3,
+        "size": 15
+      },
+      {
+        "id": "This is the Only Living I've Got (Don't Take It Away From Me): The Rodney Graham Songbook",
+        "authorPrimary": "Rodney Graham",
+        "authorOtherParticipants": ["Christoph Keller", "Kathy Slade"],
+        "location": "Charles H. Scott Gallery",
+        "date": "2006",
+        "associations": "",
+        "summary": ["A compilation of 37 songs from Graham's CDs and records."],
+        "group": 3,
+        "size": 15
+      },
+      {
+        "id": "READ Edition 1",
+        "authorPrimary": ["Fiona Banner", "Dan Graham", "Brian Jungen", "Myfanwy MacLeod", "Jonathan Monk", "Shannon Oksanen", "Peter Piller", "Frances Stark", "Michael Stevenson", "Ron Terada"],
+        "authorOtherParticipants": "",
+        "location": "",
+        "date": "2007",
+        "associations": "",
+        "summary": ["A print portfolio where the curators invited ten international artists to respond to the theme of reading."],
+        "group": 3,
+        "size": 15
+      },
+      {
+        "id": "Selected Standards",
+        "authorPrimary": "Euan Macdonald",
+        "authorOtherParticipants": "",
+        "location": "",
+        "date": "2007",
+        "associations": ["ECI Press, JRP|Ringier, and Städtische Galerie Waldkraiburg"],
+        "summary": ["Selected Standards is an artist book that combines title pages from sheet music found in a second hand store in Los Angeles with drawings and aerial photographs of LA."],
+        "group": 3,
+        "size": 15
+      },
+      {
+        "id": "Visible Heavens from 1850–2008",
+        "authorPrimary": "Andrew Dadson",
+        "authorOtherParticipants": "Kathy Slade",
+        "location": "Charles H. Scott Gallery",
+        "date": "2008",
+        "associations": ["ECI Press, JRP|Ringier"],
+        "summary": ["An artist book based on a found star map from 1850. The 'original' map was photocopied and each subsequent copy was then re-photocopied."],
+        "group": 3,
+        "size": 15
+      },
+      {
+        "id": "Odessa Staircase Redux",
+        "authorPrimary": "Kota Ezawa",
+        "authorOtherParticipants": "",
+        "location": "Charles H. Scott Gallery",
+        "date": "2010",
+        "associations": ["ECI Press, JRP|Ringier"],
+        "summary": ["A retroactive storyboard for Sergei Eisenstein's montage sequence from The Battleship Potemkin. The first frame of every cut in the scene is re-drawn in black ink. The ensuing series of 158 drawings form a flipbook version of the film scene that highlights the vast number of cuts and the juxtapositions between neighboring shots. An accompanying booklet of archival films stills depicts a protest by UC Berkeley students against a House Un-American Committee meeting at San Francisco City Hall in 1961."],
+        "group": 3,
+        "size": 15
+      },
+      {
+        "id": "Elizabeth McIntosh",
+        "authorPrimary": ["Jan Verwoert", "Monika Szewczyk"],
+        "authorOtherParticipants": "",
+        "location": "",
+        "date": "2010",
+        "associations": "",
+        "summary": ["Covering Elizabeth's practice, which responds to Modernism and specifically geometric abstraction, the book also features essays by Berlin based writer and critic Jan Verwoert, and Monika Szewczyk, head of publications for the Witte de With Centre for International Contemporary Art in Rotterdam."],
+        "group": 3,
+        "size": 15
+      },
+      {
+        "id": "Sensory Maps",
+        "authorPrimary": "Anna Ruth",
+        "authorOtherParticipants": "David MacWilliam",
+        "location": "Emily Carr University of Art + Design",
+        "date": "2010",
+        "associations": "ECU Press",
+        "summary": ["Sensory Maps is a series of drawings by Finland-based artist Anna Ruth. The drawings record the artist's travels and the movement of Vancouver buses over the course of a day, January 26, 2009, and were composed by allowing the vibrations of the vehicle to move a hand-held pen across a sheet of paper."],
+        "group": 3,
+        "size": 15
+      },
+      {
+        "id": "WestWays",
+        "authorPrimary": ["Rita McBride", "Matthew Licht"],
+        "authorOtherParticipants": "",
+        "location": "",
+        "date": "2011",
+        "associations": ["ECU Press, Potter Press, and JRP|Ringier"],
+        "summary": ["Rita McBride edits a series of books for which she invited other artists and writers to write short stories involving constraints and a relationship to the art world. Each of the books corresponds to a sub literary genre (crime novels, science fiction, romance, and self-help)."],
+        "group": 3,
+        "size": 15
+      },
+      {
+        "id": "Elspeth Pratt",
+        "authorPrimary": "Kathy Slade",
+        "authorOtherParticipants": "",
+        "location": "Emily Carr University of Art + Design",
+        "date": "2011",
+        "associations": ["Lorna Brown", "Lisa Robertson", "Bitter/Webber", "Matthew Stadler", "Oliver Neumann", "Stephanie Snyder", "ECU Press", "Charles H. Scott Gallery", "Cooley Gallery"],
+        "summary": ["The first monograph published on the work of Canadian artist Elspeth Pratt that spans her career to date."],
+        "group": 3,
+        "size": 15
+      },
+      {
+        "id": "Fallow",
+        "authorPrimary": "Germaine Koh",
+        "authorOtherParticipants": "",
+        "location": "",
+        "date": "2012",
+        "associations": ["Cate Rimmer", "Kathy Slade"],
+        "summary": ["This volume documents Germaine Koh’s large-scale installation work titled Fallow, in both its public presentations in Vancouver, at the Charles H. Scott Gallery, and Berlin, at Künstlerhaus Bethanien. In Fallow, plants and groundcover from an urban lot have been transplanted into the gallery, completely filling the exhibition space."],
+        "group": 3,
+        "size": 15
+      },
+      {
+        "id": "After Euphoria",
+        "authorPrimary": "Jeff Derksen",
+        "authorOtherParticipants": "",
+        "location": "",
+        "date": "2013",
+        "associations": ["ECU Press, Les presses du réel, and JRP|Ringier"],
+        "summary": ["After Euphoria is a collection of Jeff Derksen's writings on art, architecture, and globalism. The selected essays in this book focus on artistic practices and modes of cultural critique that aim their questions, research, and propositions at neoliberalism's alliance of the economy, affect, and the present."],
+        "group": 3,
+        "size": 15
+      },
+      {
+        "id": "Nuggets: New and Old Writing on Art, Architecture and Culture",
+        "authorPrimary": "Dan Graham",
+        "authorOtherParticipants": "",
+        "location": "",
+        "date": "2013",
+        "associations": ["Kathy Slade", "Itsuko Hasegawa", "ECU Press", "Les presses du réel", "JRP|Ringier"],
+        "summary": ["The texts presented in this volume span the years 1967 to 2011 and articulate ideas around a broad range of topics including conceptual art, minimalism, architecture and design, and reflect Dan Graham's long-standing interest in structures of knowledge, systems of representation, and modes of interaction or self-perception for the viewer."],
+        "group": 3,
+        "size": 15
+      },
+      {
+        "id": "Ecart (1969–1980)",
+        "authorPrimary": ["John Armleder", "Lionel Bovier"],
+        "authorOtherParticipants": "",
+        "location": "",
+        "date": "2013",
+        "associations": ["ECU Press", "Charles H. Scott Gallery", "JRP|Ringier"],
+        "summary": ["This book focuses on John Armleder's early Fluxus-related works with Ecart, a group he founded in 1969 with Patrick Lucchini and Claude Rychner."],
+        "group": 3,
+        "size": 15
+      },
+      {
+        "id": "Steve’s Vinyl",
+        "authorPrimary": "Cathy Busby",
+        "authorOtherParticipants": "",
+        "location": "",
+        "date": "2013",
+        "associations": ["David MacWilliam", "Visual Aids (New York)", "ECU Press"],
+        "summary": ["In 1993, music loving Steve Busby died of an AIDS-related illness, leaving an eclectic record collection to his sister, artist Cathy Busby. After 18 years of keeping the collection, Cathy organized a one-night celebration and album give away. The one-night only event is now a book, Steve's Vinyl, with writing from Steve and Cathy, photos from the album give-away, and memories of Steve collected the night of the event."],
+        "group": 3,
+        "size": 15
+      },
+      {
+        "id": "DRAWINGS 1,2,3",
+        "authorPrimary": "Garry Neill Kennedy",
+        "authorOtherParticipants": "",
+        "location": "",
+        "date": "2015",
+        "associations": ["ECU Press", "Publication Studio Vancouver", "Art Metropole"],
+        "summary": ["A three-volume set consisting of hundreds of Garry Neill Kennedy's notes, plans and doodles produced during one decade at the Nova Scotia College of Art and Design."],
+        "group": 3,
+        "size": 15
+      },
+      {
+        "id": "Neil Wedman: Selected Monochromatic Paintings and Works on Paper",
+        "authorPrimary": "Neil Wedman",
+        "authorOtherParticipants": "",
+        "location": "",
+        "date": "2015",
+        "associations": ["Patrik Andersson", "Brady Cranfield", "Kate Noble", "ECU Press", "Charles H. Scott Gallery"],
+        "summary": ["A new monograph on the works of Vancouver artist Neil Wedman featuring texts by Patrik Andersson, Brady Cranfield and Kate Noble."],
+        "group": 3,
+        "size": 15
+      },
+      {
+        "id": "UJ3RK5: Live From The Commodore Ballroom",
+        "authorPrimary": "UJ3RK5",
+        "authorOtherParticipants": "",
+        "location": "",
+        "date": "2016",
+        "associations": ["ECU Press", "Primary Information"],
+        "summary": ["This live performance is famous in the Vancouver music scene (as well as in visual art circles) and this double LP documents the band at their peak live intensity, opening for Gang of Four, shortly before they disbanded.Taken from the sound board at the Commodore Ballroom, the recording includes “Naum Gabo,” “The Anglican,” “Booty Dread,” and the Dan Graham-inspired “Eisenhower and the Hippies,” as well as eight other previously unreleased tracks."],
+        "group": 3,
+        "size": 15
+      },
+      {
+        "id": "Maureen Gruben: QULLIQ",
+        "authorPrimary": "Maureen Gruben",
+        "authorOtherParticipants": "",
+        "location": "",
+        "date": "2019",
+        "associations": ["Kyra Kordoski", "Tarah Hogue", "Tania Willard", "Cate Rimmer", "ECU Press", "Libby Leshgold Gallery"],
+        "summary": ["A monograph on the work of Inuvialuit contemporary artist Maureen Gruben, with texts by Kyra Kordoski, Tarah Hogue, Tania Willard, and Cate Rimmer."],
+        "group": 3,
+        "size": 15
+      },
+      {
+        "id": "Against Ageism, A Queer Manifesto",
+        "authorPrimary": "Simon(e) van Saarloos",
+        "authorOtherParticipants": "",
+        "location": "",
+        "date": "2023",
+        "associations": ["ECU Press/Reflector", "Samantha Nye"],
+        "summary": ["Against Ageism: A Queer Manifesto starts with what it is not: it is not a socio-economic argument against ageism, celebrating “the elderly” as economically viable. Author Simon(e) van Saarloos is not interested in natural arguments about age, which portray different age groups as valuable because of assumed inherent qualities. Instead, this manifesto starts with an experience of childhood sexual abuse, and moves on to dissect the ways in which constructions of “age” and “youth” function to support and reproduce white supremacist patriarchy."],
+        "group": 3,
+        "size": 15
+      },
+      {
+        "id": "Kathy Slade",
+        "location": "",
+        "website": "",
+        "associations": "",
+        "projects": "",
+        "group": 4,
+        "size": 10
+        },
+      {
+        "id": "Cate Rimmer",
+        "location": "",
+        "website": "",
+        "associations": "",
+        "projects": "",
+        "group": 4,
+        "size": 10
+        },
+       {
+        "id": "David MacWilliam",
+        "location": "",
+        "website": "",
+        "associations": "",
+        "projects": "",
+        "group": 4,
+        "size": 10
+        },
+       {
+        "id": "Rodney Graham",
+        "location": "",
+        "website": "",
+        "associations": "",
+        "projects": "",
+        "group": 4,
+        "size": 10
+        },
+       {
+        "id": "Brady Cranfield",
+        "location": "",
+        "website": "",
+        "associations": "",
+        "projects": "",
+        "group": 4,
+        "size": 10
+        },
+       {
+        "id": "Mark Soo",
+        "location": "",
+        "website": "",
+        "associations": "",
+        "projects": "",
+        "group": 4,
+        "size": 10
+        },
+       {
+        "id": "Tim Lee",
+        "location": "",
+        "website": "",
+        "associations": "",
+        "projects": "",
+        "group": 4,
+        "size": 10
+        },    
+       {
+        "id": "Sydney Hermant",
+        "location": "",
+        "website": "",
+        "associations": "",
+        "projects": "",
+        "group": 4,
+        "size": 10
+        },
+       {
+        "id": "Christoph Keller",
+        "location": "",
+        "website": "",
+        "associations": "",
+        "projects": "",
+        "group": 4,
+        "size": 10
+        }, 
+        {
+        "id": "Fiona Banner",
+        "location": "",
+        "website": "",
+        "associations": "",
+        "projects": "",
+        "group": 4,
+        "size": 10
+        },
+        {
+        "id": "Dan Graham",
+        "location": "",
+        "website": "",
+        "associations": "",
+        "projects": "",
+        "group": 4,
+        "size": 10
+        },
+        {
+        "id": "Brian Jungen",
+        "location": "",
+        "website": "",
+        "associations": "",
+        "projects": "",
+        "group": 4,
+        "size": 10
+        },
+        {
+        "id": "Myfanwy MacLeod",
+        "location": "",
+        "website": "",
+        "associations": "",
+        "projects": "",
+        "group": 4,
+        "size": 10
+        }, 
+                {
+        "id": "Jonathan Monk",
+        "location": "",
+        "website": "",
+        "associations": "",
+        "projects": "",
+        "group": 4,
+        "size": 10
+        },
+        {
+        "id": "Michael Stevenson",
+        "location": "",
+        "website": "",
+        "associations": "",
+        "projects": "",
+        "group": 4,
+        "size": 10
+        },
+        {
+        "id": "Peter Piller",
+        "location": "",
+        "website": "",
+        "associations": "",
+        "projects": "",
+        "group": 4,
+        "size": 10
+        },
+        {
+        "id": "Frances Stark",
+        "location": "",
+        "website": "",
+        "associations": "",
+        "projects": "",
+        "group": 4,
+        "size": 10
+        },
+        {
+        "id": "Michael Stevenson",
+        "location": "",
+        "website": "",
+        "associations": "",
+        "projects": "",
+        "group": 4,
+        "size": 10
+        },
+        {
+        "id": "Ron Terada",
+        "location": "",
+        "website": "",
+        "associations": "",
+        "projects": "",
+        "group": 4,
+        "size": 10
+        },
+        {
+        "id": "Euan Macdonald",
+        "location": "",
+        "website": "",
+        "associations": "",
+        "projects": "",
+        "group": 4,
+        "size": 10
+        },
+        {
+        "id": "Andrew Dadson",
+        "location": "",
+        "website": "",
+        "associations": "",
+        "projects": "",
+        "group": 4,
+        "size": 10
+        },
+        {
+        "id": "Kota Ezawa",
+        "location": "",
+        "website": "",
+        "associations": "",
+        "projects": "",
+        "group": 4,
+        "size": 10
+        },
+        {
+        "id": "Elizabeth McIntosh",
+        "location": "",
+        "website": "",
+        "associations": "",
+        "projects": "",
+        "group": 4,
+        "size": 10
+        },
+        {
+        "id": "Jan Verwoert",
+        "location": "",
+        "website": "",
+        "associations": "",
+        "projects": "",
+        "group": 4,
+        "size": 10
+        },
+        {
+        "id": "Monika Szewczyk",
+        "location": "",
+        "website": "",
+        "associations": "",
+        "projects": "",
+        "group": 4,
+        "size": 10
+        },
+        {
+        "id": "Anna Ruth",
+        "location": "",
+        "website": "",
+        "associations": "",
+        "projects": "",
+        "group": 4,
+        "size": 10
+        },
+        {
+        "id": "Rita McBride",
+        "location": "",
+        "website": "",
+        "associations": "",
+        "projects": "",
+        "group": 4,
+        "size": 10
+        },
+        {
+        "id": "Matthew Licht",
+        "location": "",
+        "website": "",
+        "associations": "",
+        "projects": "",
+        "group": 4,
+        "size": 10
+        },
+        {
+        "id": "Elsbeth Pratt",
+        "location": "",
+        "website": "",
+        "associations": "",
+        "projects": "",
+        "group": 4,
+        "size": 10
+        },
+        {
+        "id": "Lorna Brown",
+        "location": "",
+        "website": "",
+        "associations": "",
+        "projects": "",
+        "group": 4,
+        "size": 10
+        },
+        {
+        "id": "Lisa Robertson",
+        "location": "",
+        "website": "",
+        "associations": "",
+        "projects": "",
+        "group": 4,
+        "size": 10
+        },
+        {
+        "id": "Bitter/Webber",
+        "location": "",
+        "website": "",
+        "associations": "",
+        "projects": "",
+        "group": 4,
+        "size": 10
+        },
+        {
+        "id": "Matthew Stadler",
+        "location": "",
+        "website": "",
+        "associations": "",
+        "projects": "",
+        "group": 4,
+        "size": 10
+        },
+        {
+        "id": "Oliver Neumann",
+        "location": "",
+        "website": "",
+        "associations": "",
+        "projects": "",
+        "group": 4,
+        "size": 10
+        },
+        {
+        "id": "Stephanie Snyder",
+        "location": "",
+        "website": "",
+        "associations": "",
+        "projects": "",
+        "group": 4,
+        "size": 10
+        },
+        {
+        "id": "Germaine Koh",
+        "location": "",
+        "website": "",
+        "associations": "",
+        "projects": "",
+        "group": 4,
+        "size": 10
+        },
+        {
+        "id": "Jeff Derksen",
+        "location": "",
+        "website": "",
+        "associations": "",
+        "projects": "",
+        "group": 4,
+        "size": 10
+        },
+        {
+        "id": "Itsuko Hasegawa",
+        "location": "",
+        "website": "",
+        "associations": "",
+        "projects": "",
+        "group": 4,
+        "size": 10
+        },
+        {
+        "id": "John Armleder",
+        "location": "",
+        "website": "",
+        "associations": "",
+        "projects": "",
+        "group": 4,
+        "size": 10
+        },
+        {
+        "id": "Lionel Bovier",
+        "location": "",
+        "website": "",
+        "associations": "",
+        "projects": "",
+        "group": 4,
+        "size": 10
+        },
+        {
+        "id": "Cathy Busby",
+        "location": "",
+        "website": "",
+        "associations": "",
+        "projects": "",
+        "group": 4,
+        "size": 10
+        },
+        {
+        "id": "Garry Neill Kennedy",
+        "location": "",
+        "website": "",
+        "associations": "",
+        "projects": "",
+        "group": 4,
+        "size": 10
+        },
+        {
+        "id": "Neil Wedman",
+        "location": "",
+        "website": "",
+        "associations": "",
+        "projects": "",
+        "group": 4,
+        "size": 10
+        },
+        {
+        "id": "Patrik Andersson",
+        "location": "",
+        "website": "",
+        "associations": "",
+        "projects": "",
+        "group": 4,
+        "size": 10
+        },
+        {
+        "id": "Kate Nobel",
+        "location": "",
+        "website": "",
+        "associations": "",
+        "projects": "",
+        "group": 4,
+        "size": 10
+        },
+        {
+        "id": "Maureen Gruben",
+        "location": "",
+        "website": "",
+        "associations": "",
+        "projects": "",
+        "group": 4,
+        "size": 10
+        },
+        {
+        "id": "Kyra Kordoski",
+        "location": "",
+        "website": "",
+        "associations": "",
+        "projects": "",
+        "group": 4,
+        "size": 10
+        },
+        {
+        "id": "Trah Hogue",
+        "location": "",
+        "website": "",
+        "associations": "",
+        "projects": "",
+        "group": 4,
+        "size": 10
+        },
+        {
+        "id": "Tania Willard",
+        "location": "",
+        "website": "",
+        "associations": "",
+        "projects": "",
+        "group": 4,
+        "size": 10
+        },
+        {
+        "id": "Simon(e) van Saarloos",
+        "location": "",
+        "website": "",
+        "associations": "",
+        "projects": "",
+        "group": 4,
+        "size": 10
+        },
+        {
+        "id": "Samantha Nye",
+        "location": "",
+        "website": "",
+        "associations": "",
+        "projects": "",
+        "group": 4,
+        "size": 10
+        },
+        {
+        "id": "UJ3RK5",
+        "location": "",
+        "website": "",
+        "associations": "",
+        "projects": "",
+        "group": 5,
+        "size": 10
+        },
+        {
+        "id": "Primary Information",
+        "location": "",
+        "website": "",
+        "associations": "",
+        "projects": "",
+        "group": 5,
+        "size": 10
+        }
+    ],
+  "links": [        
+        {"source": "Libby Leshgold Gallery", "target": "31", "value": 1},
+    
+        {"source": "Cooley Gallery", "target": "22", "value": 1},
+    
+        {"source": "Charles H. Scott Gallery", "target": "Vancouver, British Columbia, Canada", "value": 1},
+        {"source": "Charles H. Scott Gallery", "target": "Modern Optical Experiments in Typography: Univers Ultra Light Oblique", "value": 1},
+        {"source": "Charles H. Scott Gallery", "target": "Aunt Maud's Scrapbook", "value": 1},
+        {"source": "Charles H. Scott Gallery", "target": "Selected Standards", "value": 1},
+        {"source": "Charles H. Scott Gallery", "target": "Visible Heavens from 1850–2008", "value": 1},
+        {"source": "Charles H. Scott Gallery", "target": "WestWays", "value": 1},
+        {"source": "Charles H. Scott Gallery", "target": "Elspeth Pratt", "value": 1},
+        {"source": "Charles H. Scott Gallery", "target": "Nuggets: New and Old Writing on Art, Architecture and Culture", "value": 1},
+        {"source": "Charles H. Scott Gallery", "target": "DRAWINGS 1,2,3", "value": 1},
+    
+        {"source": "READ Books", "target": "This is the Only Living I've Got (Don't Take It Away From Me): The Rodney Graham Songbook", "value": 1},
+        {"source": "READ Books", "target": "DRAWINGS 1,2,3", "value": 1},
+    
+        {"source": "ECU Press", "target": "Elizabeth McIntosh", "value": 1},
+        {"source": "ECU Press", "target": "Sensory Maps", "value": 1},
+        {"source": "ECU Press", "target": "Fallow", "value": 22},
+        {"source": "ECU Press", "target": "After Euphoria", "value": 1},
+        {"source": "ECU Press", "target": "Nuggets: New and Old Writing on Art, Architecture and Culture", "value": 1},
+        {"source": "ECU Press", "target": "Ecart (1969–1980)", "value": 1},
+        {"source": "ECU Press", "target": "Steve’s Vinyl", "value": 1},
+        {"source": "ECU Press", "target": "DRAWINGS 1,2,3", "value": 1},
+        {"source": "ECU Press", "target": "Neil Wedman: Selected Monochromatic Paintings and Works on Paper", "value": 1},
+        {"source": "ECU Press", "target": "UJ3RK5: Live From The Commodore Ballroom", "value": 1}
+  ]
+}

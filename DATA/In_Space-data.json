@@ -896,12 +896,12 @@
         }
     ],
   "links": [        
-        //galleries
-        {"source": "1", "target": "31", "value": 1}, //libby leshgold
+
+        {"source": "1", "target": "31", "value": 1},
     
-        {"source": "2", "target": "22", "value": 1}, //cooley gallery
+        {"source": "2", "target": "22", "value": 1},
     
-        {"source": "3", "target": "12", "value": 1}, //CHS
+        {"source": "3", "target": "12", "value": 1},
         {"source": "3", "target": "13", "value": 1},
         {"source": "3", "target": "14", "value": 1},
         {"source": "3", "target": "17", "value": 1},
@@ -910,11 +910,11 @@
         {"source": "3", "target": "23", "value": 1},
         {"source": "3", "target": "26", "value": 1},
         {"source": "3", "target": "29", "value": 1},
-        //publishers
-        {"source": "4", "target": "15", "value": 1}, //READ Books
+     
+        {"source": "4", "target": "15", "value": 1},
         {"source": "4", "target": "29", "value": 1},
     
-        {"source": "5", "target": "20", "value": 1}, //ECU Press
+        {"source": "5", "target": "20", "value": 1},
         {"source": "5", "target": "21", "value": 1},
         {"source": "5", "target": "24", "value": 1},
         {"source": "5", "target": "25", "value": 1},
@@ -925,9 +925,24 @@
         {"source": "5", "target": "30", "value": 1},
         {"source": "5", "target": "31", "value": 1},
 
+        {"source": "6", "target": "25", "value": 1},
+        {"source": "6", "target": "26", "value": 1},
 
+        {"source": "7", "target": "28", "value": 1},
 
-        //works
+        {"source": "8", "target": "29", "value": 1},
+
+        {"source": "9", "target": "29", "value": 1},
+
+        {"source": "10", "target": "33", "value": 1},
+
+        {"source": "11", "target": "17", "value": 1},
+        {"source": "11", "target": "18", "value": 1}, 
+        {"source": "11", "target": "19", "value": 1},
+        {"source": "11", "target": "22", "value": 1},
+        {"source": "11", "target": "25", "value": 1},
+        {"source": "11", "target": "26", "value": 1},
+        {"source": "11", "target": "27", "value": 1}
 
   ]
 }

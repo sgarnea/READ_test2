@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1, shrink-to-fit=no">
+  <meta name="theme-color" content="#000000">
+  <link rel="stylesheet" href="https://use.typekit.net/uvt1zcf.css">
+
+  <link ref=root href="https://raw.githubusercontent.com/sgarnea/READ_test2/main/DATA/In_Space-data.json">
+  <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700" rel="stylesheet">
+  <script src="https://d3js.org/d3.v4.min.js"></script>
+  <title>InSpace Data Visualization</title>
+  <script defer="defer" src="In_Space.js"></script>
+  <link rel="stylesheet" type="text/css" href="InSpace-styles.css" />
+
+  <style> 
+
+      circle:hover {
+        stroke-width: 2;
+        stroke: #ffff;
+        opacity: 0.85;
+
+      }
+
+      .tooltip {
+        position: absolute;
+        pointer-events: none;
+        background: #000;
+        color: #fff;
+      }
+
+
+
+
+  </style>
+</head>
+
+<body>
+  <noscript>You need to enable JavaScript to run this app.</noscript>
+  <div id="root"></div>
+    <div class="App"><div>
+        <nav class="navbar navbar-expand-md navbar-light fixed-top">
+          <a href="/" class="navbar-brand">InSpace Data Visualization</a>
+          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarsExampleDefault">
+            <ul class="navbar-nav mr-auto">
+                <li class="nav-item"><a class="nav-link" href="#/about">About</a></li>
+            </ul>
+            <form class="form-inline my-2 my-lg-0">
+              <input class="search form-control" id="search-form" type="text" placeholder="Search" aria-label="Search" spellcheck="false">
+            </form>
+          </div>
+        </nav>
+        <main role="main" class="container-fluid">
+          <div class="AdvancedNetwork" style="text-align:center;">
+            <svg width="1400" height="900">
+              <rect class="background" width=100% height=100% style="fill: none; pointer-events: all;"></rect>
+
+              <script type="text/javascript">
+
+                var svg = d3.select("svg"),
+                    width = +svg.attr("width"),
+                    height = +svg.attr("height");
+                    
+
+                var color = d3.scaleOrdinal()
+                      .range(["#334455", "#778899", "#EEE499", "#E1B092", "#CBE192"])
+
+                /* force physics */
+                var simulation = d3.forceSimulation()
+                    .force("link", d3.forceLink().id(function(d) { return d.id; }))
+                    .force("charge", d3.forceManyBody().strength(0.5))
+                    .force("center", d3.forceCenter(width/ 2, height / 2))
+                    .force("collide", d3.forceCollide().strength(.01).radius(40).iterations(10))
+
+              /*calling data file*/
+              d3.json("https://raw.githubusercontent.com/sgarnea/READ_test2/main/DATA/In_Space-data.json", function(error, graph) {;
+
+
+
+              /*create links*/
+                var link = svg.append("g")
+                    .attr("class", "links")
+                  .selectAll("line")
+                  .data(graph.links)
+                  .enter().append("line")
+                    .attr("stroke-width", function(d) { return Math.sqrt(d.value); })
+
+                var tooltip = d3.select("body").append("div")
+                    .style("position", "absolute")
+                    .style("z-index", "10")
+                    .style("visibility", "hidden")
+                    .style("background-color", "#ffffff")
+                    .style("border-width", "1px")
+                    .style("border-radius", "4px")
+                    .style("padding", "5px")
+                    .style("font-size", "1em")
+
+                    .style("inline-size", "auto")
+                    .style("max-width", "300px")
+                    .style("overflow-wrap", "break-word")
+
+                    .style("line-height", "1.2em")
+                    .style("display", "block")
+                    .style("text-align", "left")
+                    .style("flex-wrap", "wrap")
+                    .style("opacity", .9)
+
+              /*create nodes */
+                var node = svg.append("g")
+                    .attr("class", "nodes")
+                  .selectAll("circle")
+                  .data(graph.nodes)
+                  .enter().append("circle")
+                    .attr("fill", function(d) { return color(d.group); })
+                    .attr("r", function(d) { return d.size; })
+                    .on("mouseover", function(d){
+                        tooltip.html(d.name)
+                        tooltip.style("visibility", "visible")
+                      })
+                    .on("mouseout", function(){
+                      tooltip.style("visibility", "hidden")
+                      })
+                    .on("mousemove", function(){ 
+                        tooltip.style("top", (event.pageY-42)+"px").style("left",(event.pageX+5)+"px");
+                      }) 
+
+                    .call(d3.drag()
+                      .on("start", dragstarted)
+                      .on("drag", dragged)
+                      .on("end", dragended));
+
+
+                  /*
+                  node.append("title")
+                    .text(function(d) { return d.name })
+                  */
+
+
+                  simulation
+                      .nodes(graph.nodes)
+                      .on("tick", ticked);
+
+                  simulation.force("link")
+                      .links(graph.links);
+
+                  function ticked() {
+                    link
+                        .attr("x1", function(d) { return d.source.x; })
+                        .attr("y1", function(d) { return d.source.y; })
+                        .attr("x2", function(d) { return d.target.x; })
+                        .attr("y2", function(d) { return d.target.y; });
+                    
+                    node
+                        .attr("cx", function(d) { return d.x; })
+                        .attr("cy", function(d) { return d.y; });
+                  }
+
+                  });
+
+
+                  function dragstarted(d) {
+                    if (!d3.event.active) simulation.alphaTarget(0.3).restart();
+                    d.fx = d.x;
+                    d.fy = d.y;
+                  }
+
+                  function dragged(d) {
+                    d.fx = d3.event.x;
+                    d.fy = d3.event.y;
+                  }
+
+                  function dragended(d) {
+                    if (!d3.event.active) simulation.alphaTarget(0);
+                    d.fx = null;
+                    d.fy = null;
+                  }
+
+              </script>
+            </svg>
+          </div>
+       <footer style="text-align:left; margin: 5px 5px 5px 5px">
+          <p> ©Copyright 2023 by InSpace Visualization Project / Libby Leshgold Gallery / Emily Carr University of Art + Design. All rights reserved.</p>
+        </footer>
+        </main>
+</body>
+
+</html>

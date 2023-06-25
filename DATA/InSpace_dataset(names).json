@@ -827,32 +827,7 @@
     
         {"source": "READ Books", "target": "This is the Only Living I've Got (Don't Take It Away From Me): The Rodney Graham Songbook", "value": 1},
         {"source": "READ Books", "target": "DRAWINGS 1,2,3", "value": 1},
-    
-        {"source": "ECU Press", "target": "Elizabeth McIntosh", "value": 1},
-        {"source": "ECU Press", "target": "Sensory Maps", "value": 1},
-        {"source": "ECU Press", "target": "Fallow", "value": 1},
-        {"source": "ECU Press", "target": "After Euphoria", "value": 1},
-        {"source": "ECU Press", "target": "Nuggets: New and Old Writing on Art, Architecture and Culture", "value": 1},
-        {"source": "ECU Press", "target": "Ecart (1969–1980)", "value": 1},
-        {"source": "ECU Press", "target": "Steve’s Vinyl", "value": 1},
-        {"source": "ECU Press", "target": "DRAWINGS 1,2,3", "value": 1},
-        {"source": "ECU Press", "target": "Neil Wedman: Selected Monochromatic Paintings and Works on Paper", "value": 1},
-        {"source": "ECU Press", "target": "UJ3RK5: Live From The Commodore Ballroom", "value": 1}
 
-        {"source": "Les presses du réel", "target": "After Euphoria", "value": 1}
-        {"source": "Les presses du réel", "target": "Nuggets: New and Old Writing on Art, Architecture and Culture", "value": 1}
-
-        {"source": "Visual Aids (New York)", "target": "Steve’s Vinyl", "value": 1}
-
-        {"source": "Publication Studio Vancouver", "target": "DRAWINGS 1,2,3", "value": 1}
-
-        {"source": "Art Metropole", "target": "DRAWINGS 1,2,3", "value": 1}
-
-        {"source": "ECU Press/Reflector", "target": "Against Ageism, A Queer Manifesto", "value": 1}
-
-        {"source": "JRP|Ringier", "target": "Selected Standards", "value": 1}
-        {"source": "JRP|Ringier", "target": "Visible Heavens from 1850–2008", "value": 1}
-        {"source": "JRP|Ringier", "target": "Odessa Staircase Redux", "value": 1}
 
 
   ]

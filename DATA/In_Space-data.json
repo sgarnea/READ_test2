@@ -925,24 +925,7 @@
         {"source": "5", "target": "30", "value": 1},
         {"source": "5", "target": "31", "value": 1},
 
-        {"source": "6", "target": "25", "value": 1}, //pesses
-        {"source": "6", "target": "26", "value": 1},
 
-        {"source": "7", "target": "28", "value": 1}, //visual aids
-
-        {"source": "8", "target": "29", "value": 1}, //publication studio
-
-        {"source": "9", "target": "29", "value": 1}, //art metropole
-
-        {"source": "10", "target": "33", "value": 1}, //ecu press/reflector
-
-        {"source": "11", "target": "17", "value": 1}, //jrp|ringier
-        {"source": "11", "target": "18", "value": 1}, 
-        {"source": "11", "target": "19", "value": 1},
-        {"source": "11", "target": "22", "value": 1},
-        {"source": "11", "target": "25", "value": 1},
-        {"source": "11", "target": "26", "value": 1},
-        {"source": "11", "target": "27", "value": 1}
 
         //works
 

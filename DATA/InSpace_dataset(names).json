@@ -826,9 +826,6 @@
         {"source": "Charles H. Scott Gallery", "target": "DRAWINGS 1,2,3", "value": 1},
     
         {"source": "READ Books", "target": "This is the Only Living I've Got (Don't Take It Away From Me): The Rodney Graham Songbook", "value": 1},
-        {"source": "READ Books", "target": "DRAWINGS 1,2,3", "value": 1},
-
-
-
+        {"source": "READ Books", "target": "DRAWINGS 1,2,3", "value": 1}
   ]
 }

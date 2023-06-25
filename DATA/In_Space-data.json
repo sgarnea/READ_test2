@@ -546,16 +546,6 @@
         },
         {
         "id": 51,
-        "name": "Michael Stevenson",
-        "location": "",
-        "website": "",
-        "associations": "",
-        "projects": "",
-        "group": 4,
-        "size": 8
-        },
-        {
-        "id": 52,
         "name": "Ron Terada",
         "location": "",
         "website": "",
@@ -565,7 +555,7 @@
         "size": 8
         },
         {
-        "id": 53,
+        "id": 52,
         "name": "Euan Macdonald",
         "location": "",
         "website": "",
@@ -575,7 +565,7 @@
         "size": 8
         },
         {
-        "id": 54,
+        "id": 53,
         "name": "Andrew Dadson",
         "location": "",
         "website": "",
@@ -585,7 +575,7 @@
         "size": 8
         },
         {
-        "id": 55,
+        "id": 54,
         "name": "Kota Ezawa",
         "location": "",
         "website": "",
@@ -595,7 +585,7 @@
         "size": 8
         },
         {
-        "id": 56,
+        "id": 55,
         "name": "Elizabeth McIntosh",
         "location": "",
         "website": "",
@@ -605,7 +595,7 @@
         "size": 8
         },
         {
-        "id": 57,
+        "id": 56,
         "name": "Jan Verwoert",
         "location": "",
         "website": "",
@@ -615,7 +605,7 @@
         "size": 8
         },
         {
-        "id": 58,
+        "id": 57,
         "name": "Monika Szewczyk",
         "location": "",
         "website": "",
@@ -625,7 +615,7 @@
         "size": 8
         },
         {
-        "id": 59,
+        "id": 58,
         "name": "Anna Ruth",
         "location": "",
         "website": "",
@@ -635,7 +625,7 @@
         "size": 8
         },
         {
-        "id": 60,
+        "id": 59,
         "name": "Rita McBride",
         "location": "",
         "website": "",
@@ -645,7 +635,7 @@
         "size": 8
         },
         {
-        "id": 61,
+        "id": 60,
         "name": "Matthew Licht",
         "location": "",
         "website": "",
@@ -655,8 +645,8 @@
         "size": 8
         },
         {
-        "id": 62,
-        "name": "Elsbeth Pratt",
+        "id": 61,
+        "name": "Elspeth Pratt",
         "location": "",
         "website": "",
         "associations": "",
@@ -665,7 +655,7 @@
         "size": 8
         },
         {
-        "id": 63,
+        "id": 62,
         "name": "Lorna Brown",
         "location": "",
         "website": "",
@@ -675,7 +665,7 @@
         "size": 8
         },
         {
-        "id": 64,
+        "id": 63,
         "name": "Lisa Robertson",
         "location": "",
         "website": "",
@@ -685,7 +675,7 @@
         "size": 8
         },
         {
-        "id": 65,
+        "id": 64,
         "name": "Bitter/Webber",
         "location": "",
         "website": "",
@@ -695,7 +685,7 @@
         "size": 8
         },
         {
-        "id": 66,
+        "id": 65,
         "name": "Matthew Stadler",
         "location": "",
         "website": "",
@@ -705,7 +695,7 @@
         "size": 8
         },
         {
-        "id": 67,
+        "id": 66,
         "name": "Oliver Neumann",
         "location": "",
         "website": "",
@@ -715,7 +705,7 @@
         "size": 8
         },
         {
-        "id": 68,
+        "id": 67,
         "name": "Stephanie Snyder",
         "location": "",
         "website": "",
@@ -725,7 +715,7 @@
         "size": 8
         },
         {
-        "id": 69,
+        "id": 68,
         "name": "Germaine Koh",
         "location": "",
         "website": "",
@@ -735,7 +725,7 @@
         "size": 8
         },
         {
-        "id": 70,
+        "id": 69,
         "name": "Jeff Derksen",
         "location": "",
         "website": "",
@@ -745,7 +735,7 @@
         "size": 8
         },
         {
-        "id": 71,
+        "id": 70,
         "name": "Itsuko Hasegawa",
         "location": "",
         "website": "",
@@ -755,7 +745,7 @@
         "size": 8
         },
         {
-        "id": 72,
+        "id": 71,
         "name": "John Armleder",
         "location": "",
         "website": "",
@@ -765,7 +755,7 @@
         "size": 8
         },
         {
-        "id": 73,
+        "id": 72,
         "name": "Lionel Bovier",
         "location": "",
         "website": "",
@@ -775,7 +765,7 @@
         "size": 8
         },
         {
-        "id": 74,
+        "id": 73,
         "name": "Cathy Busby",
         "location": "",
         "website": "",
@@ -785,7 +775,7 @@
         "size": 8
         },
         {
-        "id": 75,
+        "id": 74,
         "name": "Garry Neill Kennedy",
         "location": "",
         "website": "",
@@ -795,7 +785,7 @@
         "size": 8
         },
         {
-        "id": 76,
+        "id": 75,
         "name": "Neil Wedman",
         "location": "",
         "website": "",
@@ -805,7 +795,7 @@
         "size": 8
         },
         {
-        "id": 77,
+        "id": 76,
         "name": "Patrik Andersson",
         "location": "",
         "website": "",
@@ -815,7 +805,7 @@
         "size": 8
         },
         {
-        "id": 78,
+        "id": 77,
         "name": "Kate Nobel",
         "location": "",
         "website": "",
@@ -825,7 +815,7 @@
         "size": 8
         },
         {
-        "id": 79,
+        "id": 78,
         "name": "Maureen Gruben",
         "location": "",
         "website": "",
@@ -835,7 +825,7 @@
         "size": 8
         },
         {
-        "id": 80,
+        "id": 79,
         "name": "Kyra Kordoski",
         "location": "",
         "website": "",
@@ -845,7 +835,7 @@
         "size": 8
         },
         {
-        "id": 81,
+        "id": 80,
         "name": "Trah Hogue",
         "location": "",
         "website": "",
@@ -855,7 +845,7 @@
         "size": 8
         },
         {
-        "id": 82,
+        "id": 81,
         "name": "Tania Willard",
         "location": "",
         "website": "",
@@ -865,7 +855,7 @@
         "size": 8
         },
         {
-        "id": 83,
+        "id": 82,
         "name": "Simon(e) van Saarloos",
         "location": "",
         "website": "",
@@ -875,7 +865,7 @@
         "size": 8
         },
         {
-        "id": 84,
+        "id": 83,
         "name": "Samantha Nye",
         "location": "",
         "website": "",
@@ -885,7 +875,7 @@
         "size": 8
         },
         {
-        "id": 85,
+        "id": 84,
         "name": "UJ3RK5",
         "location": "",
         "website": "",
@@ -895,7 +885,7 @@
         "size": 8
         },
         {
-        "id": 86,
+        "id": 85,
         "name": "Primary Information",
         "location": "",
         "website": "",
@@ -906,11 +896,12 @@
         }
     ],
   "links": [        
-        {"source": "1", "target": "31", "value": 1},
+        //galleries
+        {"source": "1", "target": "31", "value": 1}, //libby leshgold
     
-        {"source": "2", "target": "22", "value": 1},
+        {"source": "2", "target": "22", "value": 1}, //cooley gallery
     
-        {"source": "3", "target": "12", "value": 1},
+        {"source": "3", "target": "12", "value": 1}, //CHS
         {"source": "3", "target": "13", "value": 1},
         {"source": "3", "target": "14", "value": 1},
         {"source": "3", "target": "17", "value": 1},
@@ -919,19 +910,41 @@
         {"source": "3", "target": "23", "value": 1},
         {"source": "3", "target": "26", "value": 1},
         {"source": "3", "target": "29", "value": 1},
-    
-        {"source": "4", "target": "15", "value": 1},
+        //publishers
+        {"source": "4", "target": "15", "value": 1}, //READ Books
         {"source": "4", "target": "29", "value": 1},
     
-        {"source": "5", "target": "20", "value": 1},
+        {"source": "5", "target": "20", "value": 1}, //ECU Press
         {"source": "5", "target": "21", "value": 1},
-        {"source": "5", "target": "24", "value": 22},
+        {"source": "5", "target": "24", "value": 1},
         {"source": "5", "target": "25", "value": 1},
         {"source": "5", "target": "26", "value": 1},
         {"source": "5", "target": "27", "value": 1},
         {"source": "5", "target": "28", "value": 1},
         {"source": "5", "target": "29", "value": 1},
         {"source": "5", "target": "30", "value": 1},
-        {"source": "5", "target": "31", "value": 1}
+        {"source": "5", "target": "31", "value": 1},
+
+        {"source": "6", "target": "25", "value": 1}, //pesses
+        {"source": "6", "target": "26", "value": 1},
+
+        {"source": "7", "target": "28", "value": 1}, //visual aids
+
+        {"source": "8", "target": "29", "value": 1}, //publication studio
+
+        {"source": "9", "target": "29", "value": 1}, //art metropole
+
+        {"source": "10", "target": "33", "value": 1}, //ecu press/reflector
+
+        {"source": "11", "target": "17", "value": 1}, //jrp|ringier
+        {"source": "11", "target": "18", "value": 1}, 
+        {"source": "11", "target": "19", "value": 1},
+        {"source": "11", "target": "22", "value": 1},
+        {"source": "11", "target": "25", "value": 1},
+        {"source": "11", "target": "26", "value": 1},
+        {"source": "11", "target": "27", "value": 1}
+
+        //works
+
   ]
 }

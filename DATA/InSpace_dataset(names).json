@@ -811,8 +811,8 @@
         }
     ],
   "links": [        
-        {"source": "Libby Leshgold Gallery", "target": "UJ3RK5: Live From The Commodore Ballroom", "value": 1}
-
+        {"source": "Libby Leshgold Gallery", "target": "UJ3RK5: Live From The Commodore Ballroom", "value": 1},
+    
         {"source": "Cooley Gallery", "target": "WestWays", "value": 1},
     
         {"source": "Charles H. Scott Gallery", "target": "Vancouver, British Columbia, Canada", "value": 1},

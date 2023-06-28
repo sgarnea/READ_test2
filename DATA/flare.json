@@ -1,0 +1,31 @@
+{
+ "name": "flare",
+ "children": [
+  {
+   "name": "analytics",
+   "children": [
+    {
+     "name": "cluster"
+    },
+    {
+     "name": "optimization"
+    }
+   ]
+  },
+  {
+   "name": "animate"
+  },
+  {
+   "name": "scale"
+  },
+  {
+   "name": "vis",
+   "children": [
+    {
+     "name": "controls"
+    },
+    {"name": "Visualization", "size": 16540}
+   ]
+  }
+ ]
+}

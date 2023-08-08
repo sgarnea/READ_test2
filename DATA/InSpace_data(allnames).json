@@ -4379,7 +4379,7 @@
     "type": "",
     "location": "",
     "associations": "",
-    "projects": "Ecart (1969–1980); John Armleder and Ecart (publication exhibition)",
+    "projects": "Ecart (1969–1980); John Armleder and Ecart",
     "group": 6
   },
   {
@@ -4388,7 +4388,7 @@
     "type": "",
     "location": "",
     "associations": "",
-    "projects": "John Armleder and Ecart (exhibit.)",
+    "projects": "John Armleder and Ecart",
     "group": 6
   },
   {
@@ -8449,7 +8449,16 @@
     "associations": "",
     "projects": "The Voyage, or Three Years at Sea Part III",
     "group": 7
-  }      
+  },
+  {
+    "id": "Forget Art Collective",
+    "category": "group",
+    "type": "",
+    "location": "",
+    "associations": "",
+    "projects": "Virtual Voices: Approaching Social Media and Art in China",
+    "group": 7
+  }           
 ],
 "links": [        
     {"source": "Vancouver, British Columbia, Canada", "target": "Brady Cranfield", "value": 1},

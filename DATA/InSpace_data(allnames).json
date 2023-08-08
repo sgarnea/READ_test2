@@ -3411,6 +3411,15 @@
     "group": 5
   },
   {
+    "id": "University of Minnesota Press",
+    "category": "entity",
+    "type": "publisher",
+    "location": "",
+    "associations": "",
+    "projects": "Bauhaus Weaving Theory: From Feminine Craft to Mode of Design",
+    "group": 5
+  }, 
+  {
     "id": "Vancouver Book Fair",
     "category": "entity",
     "type": "non-profit organization",

@@ -2059,7 +2059,7 @@
       "READ Books", 
       "Satellite Gallery", 
       "Morris and Helen Belkin Art Gallery", 
-      "the Museum of Anthropology", 
+      "Museum of Anthropology", 
       "Presentation House Gallery"
     ],
     "images": "",       
@@ -9474,7 +9474,7 @@
     {"source": "Cindy Sherman meets Dzunuk’wa", "target": "READ Books", "value": 1},
     {"source": "Cindy Sherman meets Dzunuk’wa", "target": "Satellite Gallery", "value": 1},
     {"source": "Cindy Sherman meets Dzunuk’wa", "target": "Morris and Helen Belkin Art Gallery", "value": 1},
-    {"source": "Cindy Sherman meets Dzunuk’wa", "target": "the Museum of Anthropology", "value": 1},
+    {"source": "Cindy Sherman meets Dzunuk’wa", "target": "Museum of Anthropology", "value": 1},
     {"source": "Cindy Sherman meets Dzunuk’wa", "target": "Presentation House Gallery", "value": 1},
         
         

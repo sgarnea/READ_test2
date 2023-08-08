@@ -2653,7 +2653,7 @@
       "Primrose and Alfred Adams", 
       "Morgan Asoyuf", 
       "Dempsey Bob", 
-      "Corey Bulpit", 
+      "Corey Bulpitt", 
       "Dale Campbell", 
       "Beau Dick", 
       "Cole Speck", 
@@ -7578,15 +7578,6 @@
     "group": 6
   },
   {
-    "id": "Corey Bulpitt",
-    "category": "person",
-    "type": "",
-    "location": "",
-    "associations": "",
-    "projects": "Em̓út | Being Home; Meymey’em | Ripple",
-    "group": 6
-  },
-  {
     "id": "Brenda Crabtree",
     "category": "person",
     "type": "",
@@ -8118,14 +8109,23 @@
     "group": 6
   },
   {
-    "id": "Corey Bulpitt | Haida Dale Campbell",
+    "id": "Corey Bulpitt",
+    "category": "person",
+    "type": "Haida",
+    "location": "",
+    "associations": "",
+    "projects": "Em̓út | Being Home; Meymey’em | Ripple",
+    "group": 6
+  },
+  {
+    "id": "Dale Campbell",
     "category": "person",
     "type": "Tahltan / Tlingit",
     "location": "",
     "associations": "",
-    "projects": "Meymey’em | Ripple",
+    "projects": "Em̓út | Being Home; Meymey’em | Ripple",
     "group": 6
-  },
+  }, 
   {
     "id": "Cole Speck",
     "category": "person",
@@ -9718,7 +9718,7 @@
     {"source": "Meymey’em | Ripple", "target": "Primrose and Alfred Adams", "value": 1},
     {"source": "Meymey’em | Ripple", "target": "Morgan Asoyuf", "value": 1},
     {"source": "Meymey’em | Ripple", "target": "Dempsey Bob", "value": 1},
-    {"source": "Meymey’em | Ripple", "target": "Corey Bulpit", "value": 1},
+    {"source": "Meymey’em | Ripple", "target": "Corey Bulpitt", "value": 1},
     {"source": "Meymey’em | Ripple", "target": "Dale Campbell", "value": 1},
     {"source": "Meymey’em | Ripple", "target": "Beau Dick", "value": 1},
     {"source": "Meymey’em | Ripple", "target": "Cole Speck", "value": 1},

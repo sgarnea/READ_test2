@@ -689,7 +689,7 @@
     "location": "READ Books",
     "date": "26-Jan-10",
     "associations": [
-      "The Western Front", 
+      "Western Front", 
       "REV"
     ],
     "images": "",       
@@ -2835,7 +2835,7 @@
     "group": 5
   },
   {
-    "id": "The Western Front",
+    "id": "Western Front",
     "category": "entity",
     "type": "gallery",
     "location": "",
@@ -8796,7 +8796,7 @@
     {"source": "Recipes for an Encounter", "target": "Matt Volla", "value": 1},
     {"source": "Recipes for an Encounter", "target": "Sharif Waked", "value": 1},
    
-    {"source": "Recipes for an Encounter", "target": "The Western Front", "value": 1},
+    {"source": "Recipes for an Encounter", "target": "Western Front", "value": 1},
     {"source": "Recipes for an Encounter", "target": "REV", "value": 1},
       
         

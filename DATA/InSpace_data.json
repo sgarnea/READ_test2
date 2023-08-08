@@ -4034,7 +4034,7 @@
   {
     "id": "Kathy Slade",
     "category": "person",
-    "type": "[writer, artist]",
+    "type": "writer, artist",
     "location": "",
     "associations": "",
     "projects": "Vancouver, British Columbia, Canada; Modern Optical Experiments in Typography: Univers Ultra Light Oblique; Aunt Maud's Scrapbook; This is the Only Living I've Got (Don't Take It Away From Me): The Rodney Graham Songbook; READ Edition 1; Visible Heavens from 1850–2008 (publication); Visible Heavens from 1850–2008 (publication launch); Elspeth Pratt (publication); Fallow (publication); Nuggets: New and Old Writing on Art, Architecture and Culture; Transactions; The Banal; Elspeth Pratt (publication launch); Group Search / Memory Palace; Nonetheless; Fiona Banner aka The Vanity Press",
@@ -8966,7 +8966,8 @@
         
     {"source": "The Book on Books on Artists' Books (BOBOAB)", "target": "Arnaud Desjardin", "value": 1},
         
-    {"source": "The Book on Books on Artists' Books (BOBOAB)", "target": "Satellite Gallery", "value": 1},       
+    {"source": "The Book on Books on Artists' Books (BOBOAB)", "target": "Satellite Gallery", "value": 1}, 
+
         
     {"source": "Revolutionaries", "target": "Janice Kerbel", "value": 1},
 

@@ -218,7 +218,7 @@
     "authorOtherParticipants": [
       "Lorna Brown", 
       "Lisa Robertson", 
-      "Bitter/Webber", 
+      "Bitter/Weber", 
       "Matthew Stadler", 
       "Oliver Neumann", 
       "Stephanie Snyder"
@@ -763,7 +763,7 @@
       "Kathy Slade", 
       "Lorna Brown", 
       "Lisa Robertson", 
-      "Bitter/Webber", 
+      "Bitter/Weber", 
       "Matthew Stadler", 
       "Oliver Neumann", 
       "Stephanie Snyder"
@@ -776,7 +776,7 @@
       "Cooley Gallery"
     ],
     "images": "",   
-    "summary": "This is the first monograph published on the work of Canadian artist Elspeth Pratt that spans her career to date. For twenty-eight years Pratt has been producing sculptural work that negotiates the line between abstraction and representation to explore architecture and public space. Working with everyday \"impoverished\" materials, the artist engages with ideas of doubt, the precarious, and the built environment. The monograph includes texts by Lorna Brown, Lisa Robertson, Bitter / Webber, Matthew Stadler, Oliver Neumann, and Stephanie Snyder.",
+    "summary": "This is the first monograph published on the work of Canadian artist Elspeth Pratt that spans her career to date. For twenty-eight years Pratt has been producing sculptural work that negotiates the line between abstraction and representation to explore architecture and public space. Working with everyday \"impoverished\" materials, the artist engages with ideas of doubt, the precarious, and the built environment. The monograph includes texts by Lorna Brown, Lisa Robertson, Bitter / Weber, Matthew Stadler, Oliver Neumann, and Stephanie Snyder.",
     "group": 2
   },
   {
@@ -4302,7 +4302,7 @@
     "group": 6
   },
   {
-    "id": "Bitter/Webber",
+    "id": "Bitter/Weber",
     "category": "person",
     "type": "",
     "location": "",
@@ -8542,7 +8542,7 @@
         
     {"source": "Elspeth Pratt (pub.)", "target": "Lorna Brown", "value": 1},
     {"source": "Elspeth Pratt (pub.)", "target": "Lisa Robertson", "value": 1},
-    {"source": "Elspeth Pratt (pub.)", "target": "Bitter/Webber", "value": 1},
+    {"source": "Elspeth Pratt (pub.)", "target": "Bitter/Weber", "value": 1},
     {"source": "Elspeth Pratt (pub.)", "target": "Matthew Stadler", "value": 1},
     {"source": "Elspeth Pratt (pub.)", "target": "Oliver Neumann", "value": 1},
     {"source": "Elspeth Pratt (pub.)", "target": "Stephanie Snyder", "value": 1},
@@ -8841,7 +8841,7 @@
     {"source": "Elspeth Pratt (pub. launch)", "target": "Kathy Slade", "value": 1},
     {"source": "Elspeth Pratt (pub. launch)", "target": "Lorna Brown", "value": 1},
     {"source": "Elspeth Pratt (pub. launch)", "target": "Lisa Robertson", "value": 1},
-    {"source": "Elspeth Pratt (pub. launch)", "target": "Bitter/Webber", "value": 1},
+    {"source": "Elspeth Pratt (pub. launch)", "target": "Bitter/Weber", "value": 1},
     {"source": "Elspeth Pratt (pub. launch)", "target": "Matthew Stadler", "value": 1},
     {"source": "Elspeth Pratt (pub. launch)", "target": "Oliver Neumann", "value": 1},
     {"source": "Elspeth Pratt (pub. launch)", "target": "Stephanie Snyder", "value": 1},
@@ -8982,8 +8982,8 @@
     {"source": "After Euphoria (pub. launch)", "target": "Ken Lum", "value": 1},
     {"source": "After Euphoria (pub. launch)", "target": "Ron Terada", "value": 1},
     {"source": "After Euphoria (pub. launch)", "target": "Stan Douglas", "value": 1},
-    {"source": "After Euphoria (pub. launch)", "target": "Sabine Bitter", "value": 1},
-    {"source": "After Euphoria (pub. launch)", "target": "Helmut Weber", "value": 1}, 
+    {"source": "After Euphoria (pub. launch)", "target": "Bitter/Weber", "value": 1},
+    {"source": "After Euphoria (pub. launch)", "target": "Bitter/Weber", "value": 1}, 
     {"source": "After Euphoria (pub. launch)", "target": "Alfredo Jaar", "value": 1},
         
     {"source": "After Euphoria (pub. launch)", "target": "JRP|Ringier", "value": 1},

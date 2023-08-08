@@ -1614,7 +1614,7 @@
     "authorPrimary": [
       "Allora & Calzadilla", 
       "Cornelia Parker", 
-      "Guido Van Der Werve", 
+      "Guido van der Werve", 
       "Jonathan Monk", 
       "Mark Soo"
     ],
@@ -6534,7 +6534,7 @@
     "group": 6
   },
   {
-    "id": "Guido Van Der Werve",
+    "id": "Guido van der Werve",
     "category": "person",
     "type": "",
     "location": "",
@@ -9245,7 +9245,7 @@
         
     {"source": "After the Gold Rush", "target": "Allora & Calzadilla", "value": 1},
     {"source": "After the Gold Rush", "target": "Cornelia Parker", "value": 1},
-    {"source": "After the Gold Rush", "target": "Guido Van Der Werve", "value": 1},
+    {"source": "After the Gold Rush", "target": "Guido van der Werve", "value": 1},
     {"source": "After the Gold Rush", "target": "Jonathan Monk", "value": 1},
     {"source": "After the Gold Rush", "target": "Mark Soo", "value": 1},
         

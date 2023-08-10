@@ -1883,7 +1883,7 @@
     "group": 4
   },
   {
-    "id": "Marianna Schmidt",
+    "id": "Marianna Schmidt (exhibit.)",
     "category": "exhibition",
     "type": "exhibition",
     "authorPrimary": "Marianna Schmidt",
@@ -9386,7 +9386,7 @@
     {"source": "Here + There", "target": "Low Residency Master of Applied Arts Graduate Exhibition", "value": 1},
         
         
-    {"source": "Marianna Schmidt", "target": "Marianna Schmidt", "value": 1},
+    {"source": "Marianna Schmidt (exhibit.)", "target": "Marianna Schmidt", "value": 1},
 
         
     {"source": "John Armleder and Ecart", "target": "John Armleder", "value": 1},

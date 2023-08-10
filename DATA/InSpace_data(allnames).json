@@ -3593,7 +3593,7 @@
     "group": 5
   },
   {
-    "id": "Low Residency Master of Applied Arts Graduates",
+    "id": "Low Residency Master of Applied Arts Graduate Students",
     "category": "entity",
     "type": "university",
     "location": "",
@@ -9377,7 +9377,7 @@
     {"source": "Here + There", "target": "Nathalie Lavoie", "value": 1},
     {"source": "Here + There", "target": "Joyce Lindemulder", "value": 1},
     {"source": "Here + There", "target": "David M.C. Miller", "value": 1},
-    {"source": "Here + There", "target": "Low Residency Master of Applied Arts Graduate Exhibition", "value": 1},
+    {"source": "Here + There", "target": "Low Residency Master of Applied Arts Graduate Students", "value": 1},
         
         
     {"source": "Marianna Schmidt (exhibit.)", "target": "Marianna Schmidt", "value": 1},
@@ -9419,7 +9419,7 @@
     {"source": "Let's Reach c Together", "target": "Cate Rimmer", "value": 1},
         
         
-    {"source": "Offline", "target": "Low Residency Master of Applied Arts Students", "value": 1},
+    {"source": "Offline", "target": "Low Residency Master of Applied Arts Graduate Students", "value": 1},
 
         
     {"source": "Photography and the West Coast Modern House", "target": "Jim Breukelman", "value": 1},
@@ -9515,7 +9515,7 @@
     {"source": "arrive, reach, revisit, turn and return", "target": "Valérie Tremblay Blouin", "value": 1},
     {"source": "arrive, reach, revisit, turn and return", "target": "Trevor Van den Eijnden", "value": 1},
 
-    {"source": "arrive, reach, revisit, turn and return", "target": "Low Residency Master of Applied Arts Graduate Exhibition", "value": 1},
+    {"source": "arrive, reach, revisit, turn and return", "target": "Low Residency Master of Applied Arts Graduate Students", "value": 1},
 
         
     {"source": "Treading Buoylines", "target": "Colleen Heslin", "value": 1},

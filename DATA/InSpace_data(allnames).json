@@ -3485,15 +3485,6 @@
     "group": 5
   },
   {
-    "id": "Low Residency Master of Applied Arts Graduate Students",
-    "category": "entity",
-    "type": "university",
-    "location": "",
-    "associations": "",
-    "projects": "Offline",
-    "group": 5
-  },
-  {
     "id": "the Banff Centre",
     "category": "entity",
     "type": "non-profit organization",
@@ -4472,15 +4463,6 @@
     "location": "",
     "associations": "",
     "projects": "Maureen Gruben: QULLIQ",
-    "group": 6
-  },
-  {
-    "id": "Tania Willard",
-    "category": "person",
-    "type": "",
-    "location": "",
-    "associations": "",
-    "projects": "Picturing Transformation: Nexw-áyantsut; Maureen Gruben: QULLIQ",
     "group": 6
   },
   {

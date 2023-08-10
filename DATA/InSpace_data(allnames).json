@@ -2762,6 +2762,26 @@
     "summary": "The Libby Leshgold Gallery is pleased to present everything left unsaid, a solo exhibition of work by Jagdeep Raina and the artist’s first in Vancouver. The featured work spans a period of roughly seven years, during which time Raina’s drawing and painting practice has grown to include embroidered textile work and, most recently, stop-motion animation.\n\nBehind Raina’s image-making is an exploration of the archive, and the teasing out of both its possibilities and limitations. The work refuses to see time and memory as fixed concepts and explores questions about community, materiality, and landscape. Raina has worked with personal, civic, and institutional archives and has parsed through photographic, oral, and written histories in order to create a more complex understanding of communities formed as a result of transnational migration—memories, photographs, and retellings from the past are re-animated and histories transformed into narratives unfurling in the present.\n\nMoving through the exhibition, one can see the artist aptly shift between mediums, employing a range of tools and techniques to examine his subjects from every angle. Formed as a result is a living archive that is unfixed and atemporal. In his research based practice, Raina utilizes the archive in order to explore historical memory. His work seeks to identify the residue left behind by the human touch, and its restorative potential.",
     "group": 4
   },
+  {
+    "id": "Soft Launch",
+    "category": "exhibition",
+    "type": "exhibition",
+    "authorPrimary": [
+      "loscil", 
+      "Justine A. Chambers", 
+      "Ryan Tacata"
+    ],
+    "authorOtherParticipants": [
+      "James Proudfoot", 
+      "Vanessa Kwan" 
+    ],
+    "location": "Libby Leshgold Gallery",
+    "date": "Mar-23 -- Apr-23",
+    "associations": "Rungh Cultural Society",
+    "images": "",       
+    "summary": "",
+    "group": 4
+  },
 {
     "id": "Libby Leshgold Gallery",
     "category": "entity",
@@ -7569,24 +7589,6 @@
     "group": 6
   },
   {
-    "id": "Brenda Crabtree",
-    "category": "person",
-    "type": "",
-    "location": "",
-    "associations": "",
-    "projects": "Em̓út | Being Home; Meymey’em | Ripple",
-    "group": 6
-  },
-  {
-    "id": "Ben Davidson",
-    "category": "person",
-    "type": "",
-    "location": "",
-    "associations": "",
-    "projects": "Em̓út | Being Home",
-    "group": 6
-  },
-  {
     "id": "Robert Davidson",
     "category": "person",
     "type": "",
@@ -7602,15 +7604,6 @@
     "location": "",
     "associations": "",
     "projects": "Em̓út | Being Home",
-    "group": 6
-  },
-  {
-    "id": "Shawn Hunt",
-    "category": "person",
-    "type": "",
-    "location": "",
-    "associations": "",
-    "projects": "Em̓út | Being Home; Meymey’em | Ripple",
     "group": 6
   },
   {
@@ -8132,7 +8125,7 @@
     "type": "Nlaka'pamux and Sto: lo",
     "location": "",
     "associations": "",
-    "projects": "Meymey’em | Ripple",
+    "projects": "Em̓út | Being Home; Meymey’em | Ripple",
     "group": 6
   },
   {
@@ -8150,7 +8143,7 @@
     "type": "Haida",
     "location": "",
     "associations": "",
-    "projects": "Meymey’em | Ripple",
+    "projects": "Meymey’em | Ripple; Em̓út | Being Home",
     "group": 6
   },
   {
@@ -8177,7 +8170,7 @@
     "type": "Heiltsuk Nation, Waglisla (Bella Bella)",
     "location": "",
     "associations": "",
-    "projects": "Meymey’em | Ripple",
+    "projects": "Em̓út | Being Home; Meymey’em | Ripple",
     "group": 6
   },
   {
@@ -9763,6 +9756,14 @@
     {"source": "everything left unsaid", "target": "Yui Kigimiya", "value": 1},   
     {"source": "everything left unsaid", "target": "Ami Yokoyama", "value": 1},   
 
-    {"source": "everything left unsaid", "target": "Rungh Cultural Society", "value": 1}        
+    {"source": "everything left unsaid", "target": "Rungh Cultural Society", "value": 1},    
+
+    {"source": "Soft Launch", "target": "loscil", "value": 1},   
+    {"source": "Soft Launch", "target": "Justine A. Chambers", "value": 1},       
+    {"source": "Soft Launch", "target": "Ryan Tacata", "value": 1},     
+
+    {"source": "Soft Launch", "target": "James Proudfoot", "value": 1},     
+    {"source": "Soft Launch", "target": "Vanessa Kwan", "value": 1}            
+    
   ]
 }

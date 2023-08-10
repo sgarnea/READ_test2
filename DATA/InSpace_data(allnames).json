@@ -7560,15 +7560,6 @@
     "group": 6
   },
   {
-    "id": "Dempsey Bob",
-    "category": "person",
-    "type": "",
-    "location": "",
-    "associations": "",
-    "projects": "Em̓út | Being Home; Meymey’em | Ripple",
-    "group": 6
-  },
-  {
     "id": "David A. Boxley",
     "category": "person",
     "type": "",
@@ -8105,7 +8096,7 @@
     "type": "Tahltan-Tlingit",
     "location": "",
     "associations": "",
-    "projects": "Meymey’em | Ripple",
+    "projects": "Em̓út | Being Home; Meymey’em | Ripple",
     "group": 6
   },
   {
@@ -8509,7 +8500,7 @@
     {"source": "READ Edition 1", "target": "Brian Jungen", "value": 1},
     {"source": "READ Edition 1", "target": "Myfanwy MacLeod", "value": 1},
     {"source": "READ Edition 1", "target": "Jonathan Monk", "value": 1},
-    {"source": "READ Edition 1", "target": "Jonathan Monk", "value": 1},
+    {"source": "READ Edition 1", "target": "Shannon Oksanen", "value": 1},
     {"source": "READ Edition 1", "target": "Peter Piller", "value": 1},
     {"source": "READ Edition 1", "target": "Frances Stark", "value": 1},
     {"source": "READ Edition 1", "target": "Michael Stevenson", "value": 1},

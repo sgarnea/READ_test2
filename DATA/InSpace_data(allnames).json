@@ -1872,7 +1872,7 @@
       "Nathalie Lavoie", 
       "Joyce Lindemulder", 
       "David M.C. Miller", 
-      "Low Residency Master of Applied Arts Graduate Exhibition"
+      "Low Residency Master of Applied Arts Graduate Students"
     ],
     "authorOtherParticipants": "",
     "location": "Charles H. Scott Gallery",
@@ -1976,7 +1976,7 @@
     "id": "Offline",
     "category": "exhibition",
     "type": "exhibition",
-    "authorPrimary": "Low Residency Master of Applied Arts Students",
+    "authorPrimary": "Low Residency Master of Applied Arts Graduate Students",
     "authorOtherParticipants": "",
     "location": "Charles H. Scott Gallery",
     "date": "18-Jul-13 -- 23-Jul-13",
@@ -2199,7 +2199,7 @@
       "Valérie Tremblay Blouin", 
       "Trevor Van den Eijnden"
     ],
-    "authorOtherParticipants": "Low Residency Master of Applied Arts Graduate Exhibition",
+    "authorOtherParticipants": "Low Residency Master of Applied Arts Graduate Students",
     "location": "Emily Carr University of Art + Design",
     "date": "16-Jul-15 -- 27-Jul-15",
     "associations": "",
@@ -3485,16 +3485,7 @@
     "group": 5
   },
   {
-    "id": "Low Residency Master of Applied Arts Graduate Exhibition",
-    "category": "entity",
-    "type": "university",
-    "location": "",
-    "associations": "",
-    "projects": "Here + There",
-    "group": 5
-  },
-  {
-    "id": "Low Residency Master of Applied Arts Students",
+    "id": "Low Residency Master of Applied Arts Graduate Students",
     "category": "entity",
     "type": "university",
     "location": "",
@@ -8523,7 +8514,10 @@
         
     {"source": "Elizabeth McIntosh", "target": "Jan Verwoert", "value": 1},
     {"source": "Elizabeth McIntosh", "target": "Monika Szewczyk", "value": 1},
-      
+    
+
+    {"source": "Sensory Maps", "target": "Anna Ruth", "value": 1}, 
+    {"source": "Sensory Maps", "target": "David MacWilliam", "value": 1},  
         
     {"source": "Anna Ruth", "target": "Anna Ruth", "value": 1},
         

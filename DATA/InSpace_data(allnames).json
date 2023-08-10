@@ -8444,20 +8444,20 @@
     {"source": "Modern Optical Experiments in Typography: Univers Ultra Light Oblique", "target": "Tim Lee", "value": 1},
         
     {"source": "Modern Optical Experiments in Typography: Univers Ultra Light Oblique", "target": "Christoph Keller", "value": 1},
-    {"source": "Modern Optical Experiments in Typography: Univers Ultra Light Oblique", "target": "Kathy Slade", "value": 1},        
-        
+    {"source": "Modern Optical Experiments in Typography: Univers Ultra Light Oblique", "target": "Kathy Slade", "value": 1},
+      
         
     {"source": "Aunt Maud's Scrapbook", "target": "Sydney Hermant", "value": 1},
         
     {"source": "Aunt Maud's Scrapbook", "target": "Christoph Keller", "value": 1},
     {"source": "Aunt Maud's Scrapbook", "target": "Kathy Slade", "value": 1},        
-        
+ 
         
     {"source": "This is the Only Living I've Got (Don't Take It Away From Me): The Rodney Graham Songbook", "target": "Rodney Graham", "value": 1},
     {"source": "This is the Only Living I've Got (Don't Take It Away From Me): The Rodney Graham Songbook", "target": "Christoph Keller", "value": 1},
     {"source": "This is the Only Living I've Got (Don't Take It Away From Me): The Rodney Graham Songbook", "target": "Kathy Slade", "value": 1},
         
-        
+
     {"source": "READ Edition 1", "target": "Christoph Keller", "value": 1},
     {"source": "READ Edition 1", "target": "Kathy Slade", "value": 1},     
         
@@ -8471,7 +8471,9 @@
     {"source": "READ Edition 1", "target": "Frances Stark", "value": 1},
     {"source": "READ Edition 1", "target": "Michael Stevenson", "value": 1},
     {"source": "READ Edition 1", "target": "Ron Terada", "value": 1},
-        
+   
+   {"source": "READ Edition 1", "target": "ECU Press", "value": 1},
+       
         
     {"source": "Selected Standards", "target": "Euan Macdonald", "value": 1},
         
@@ -8486,7 +8488,7 @@
         
     {"source": "Visible Heavens from 1850–2008 (pub.)", "target": "ECI Press", "value": 1},
     {"source": "Visible Heavens from 1850–2008 (pub.)", "target": "JRP|Ringier", "value": 1},
-      
+  
         
     {"source": "Odessa Staircase Redux", "target": "Kota Ezawa", "value": 1},
         
@@ -9340,6 +9342,8 @@
 
     {"source": "Virtual Voices: Approaching Social Media and Art in China", "target": "Zheng Shengtian", "value": 1},
     {"source": "Virtual Voices: Approaching Social Media and Art in China", "target": "Diana Freundl", "value": 1},
+
+    {"source": "Virtual Voices: Approaching Social Media and Art in China", "target": "Charles H. Scott Gallery", "value": 1},
 
     {"source": "Virtual Voices: Approaching Social Media and Art in China", "target": "Centre A: Vancouver International Centre for Contemporary Asian Art", "value": 1},
         

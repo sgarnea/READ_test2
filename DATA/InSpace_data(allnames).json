@@ -139,7 +139,8 @@
     "date": 2008,
     "associations": [
       "ECI Press", 
-      "JRP|Ringier"
+      "JRP|Ringier",
+      "Visible Heavens from 1850–2008 (pub.launch)"
     ],
     "images": "",       
     "summary": "An artist book based on a found star map from 1850. The \"original\" map was photocopied and each subsequent copy was then re-photocopied.",
@@ -228,7 +229,8 @@
     "associations": [
       "ECU Press", 
       "Charles H. Scott Gallery", 
-      "Cooley Gallery"
+      "Cooley Gallery",
+      "Elspeth Pratt (pub. launch)"
     ],
     "images": "",       
     "summary": "The first monograph published on the work of Canadian artist Elspeth Pratt that spans her career to date.",
@@ -245,7 +247,7 @@
     ],
     "location": "",
     "date": 2012,
-    "associations": "",
+    "associations": "Fallow (exhibit.)",
     "images": "",       
     "summary": "This volume documents Germaine Koh’s large-scale installation work titled Fallow, in both its public presentations in Vancouver, at the Charles H. Scott Gallery, and Berlin, at Künstlerhaus Bethanien. In Fallow, plants and groundcover from an urban lot have been transplanted into the gallery, completely filling the exhibition space.",
     "group": 1
@@ -261,7 +263,8 @@
     "associations": [
       "ECU Press", 
       "Les presses du réel", 
-      "JRP|Ringier"
+      "JRP|Ringier",
+      "After Euphoria (pub. launch)"
     ],
     "images": "",       
     "summary": "After Euphoria is a collection of Jeff Derksen's writings on art, architecture, and globalism. The selected essays in this book focus on artistic practices and modes of cultural critique that aim their questions, research, and propositions at neoliberalism's alliance of the economy, affect, and the present.",
@@ -281,7 +284,8 @@
     "associations": [
       "ECU Press", 
       "Les presses du réel", 
-      "JRP|Ringier"
+      "JRP|Ringier",
+      "Nuggets"
     ],
     "images": "",       
     "summary": "The texts presented in this volume span the years 1967 to 2011 and articulate ideas around a broad range of topics including conceptual art, minimalism, architecture and design, and reflect Dan Graham's long-standing interest in structures of knowledge, systems of representation, and modes of interaction or self-perception for the viewer.",
@@ -301,7 +305,8 @@
     "associations": [
       "ECU Press", 
       "Charles H. Scott Gallery", 
-      "JRP|Ringier"
+      "JRP|Ringier",
+      "John Armleder and Ecart"
     ],
     "images": "",       
     "summary": "This book focuses on John Armleder's early Fluxus-related works with Ecart, a group he founded in 1969 with Patrick Lucchini and Claude Rychner.",
@@ -334,7 +339,8 @@
     "associations": [
       "ECU Press",
       "Publication Studio Vancouver", 
-      "Art Metropole"
+      "Art Metropole",
+      "Drawings"
     ],
     "images": "",       
     "summary": "A three-volume set consisting of hundreds of Garry Neill Kennedy's notes, plans and doodles produced during one decade at the Nova Scotia College of Art and Design.",
@@ -391,7 +397,8 @@
     "date": 2019,
     "associations": [
       "ECU Press", 
-      "Libby Leshgold Gallery"
+      "Libby Leshgold Gallery",
+      "QULLIQ: In Darkness, Light"
     ],
     "images": "",       
     "summary": "A monograph on the work of Inuvialuit contemporary artist Maureen Gruben, with texts by Kyra Kordoski, Tarah Hogue, Tania Willard, and Cate Rimmer.",
@@ -405,7 +412,10 @@
     "authorOtherParticipants": "Samantha Nye",
     "location": "",
     "date": 2023,
-    "associations": "ECU Press/Reflector",
+    "associations": [
+      "ECU Press/Reflector",
+      "Against Ageism, A Queer Manifesto (pub. launch)"
+    ],
     "images": "",       
     "summary": "Against Ageism: A Queer Manifesto starts with what it is not: it is not a socio-economic argument against ageism, celebrating “the elderly” as economically viable. Author Simon(e) van Saarloos is not interested in natural arguments about age, which portray different age groups as valuable because of assumed inherent qualities. Instead, this manifesto starts with an experience of childhood sexual abuse, and moves on to dissect the ways in which constructions of “age” and “youth” function to support and reproduce white supremacist patriarchy.",
     "group": 1
@@ -515,7 +525,8 @@
       "ECU Press", 
       "JRP|Ringier", 
       "Galleria Franco Noero", 
-      "the Rennie Collection"
+      "the Rennie Collection",
+      "Visible Heavens from 1850–2008 (pub.)"
     ],
     "images": "",   
     "summary": "In this striking volume, Vancouver artist Andrew Dadson presents a photocopy of a found star map from 1850 and then one subsequent, slowly degrading, copy for each year leading up to 2008, documenting the changes from an accurate nineteenth century vision of the stars to an abstracted blackness depicting “heaven” today.",
@@ -580,7 +591,8 @@
     "associations": [
       "Semiotext(e)/MIT", 
       "Western Front Exhibitions", 
-      "Wave Books"
+      "Wave Books",
+      "The Importance of Being Iceland and Bluets (reading)"
     ],
     "images": "",       
     "summary": "Culled by the poet from twenty years of art writing, the essays in The Importance of Being Iceland make a lush document of her--and our--lives in  contemporary crowds. Framed by her travels in Iceland, these essays posit inbetweenness as the most vital position from which to perceive culture as a whole, and a fluidity in national identity as the best model for writing and thinking about art and culture. \n\nBluets is a book by American author Maggie Nelson, published by Wave Books in 2009. The work hybridizes several prose and poetry styles as it documents Nelson's multifaceted experience with the color blue, and is often referred to as lyric essay or prose poetry. It was written between 2003 and 2006.",
@@ -773,7 +785,8 @@
     "associations": [
       "ECU Press", 
       "Charles H. Scott Gallery", 
-      "Cooley Gallery"
+      "Cooley Gallery",
+      "Elspeth Pratt (pub.)"
     ],
     "images": "",   
     "summary": "This is the first monograph published on the work of Canadian artist Elspeth Pratt that spans her career to date. For twenty-eight years Pratt has been producing sculptural work that negotiates the line between abstraction and representation to explore architecture and public space. Working with everyday \"impoverished\" materials, the artist engages with ideas of doubt, the precarious, and the built environment. The monograph includes texts by Lorna Brown, Lisa Robertson, Bitter / Weber, Matthew Stadler, Oliver Neumann, and Stephanie Snyder.",
@@ -953,7 +966,7 @@
     "authorOtherParticipants": "",
     "location": "READ Books",
     "date": "03-Oct-13",
-    "associations": "",
+    "associations": "Nuggets: New and Old Writing on Art, Architecture and Culture",
     "images": "",  
     "summary": "Nuggets presents a selection of essays by the legendary New York Conceptual artist from the late 1960s to the present. Graham writes on the work of architects such as Atelier Bow Wow, Itsuko Hasegawa and Robert Venturi, and artists such as Jeff Wall, Rodney Graham, Claes Oldenburg and Sol LeWitt.",
     "group": 2
@@ -970,7 +983,10 @@
     ],
     "location": "",
     "date": "10-Oct-13",
-    "associations": "West Vancouver Museum",
+    "associations": [
+      "West Vancouver Museum",
+      "Grounds for Standing and Understanding (reading)"
+    ],
     "images": "",       
     "summary": "Grounds for Standing and Understanding centres on Babak Golkar’s installation that was presented at the Charles H. Scott Gallery in the spring of 2012. The book includes in-depth essays by Jason Starnes and Abbas Daneshvari, with a foreword by Greg Bellerby.",
     "group": 2
@@ -1064,7 +1080,8 @@
     "associations": [
       "JRP|Ringier", 
       "Les presses du réel", 
-      "ECU Press"
+      "ECU Press",
+      "After Euphoria (pub.)"
     ],
     "images": "",       
     "summary": "A collection of Jeff Derksen's writings on art, architecture, and globalism. The selected essays in this book focus on artistic practices and modes of cultural critique that aim their questions, research, and propositions at neoliberalism’s alliance of the economy, affect, and the present.",
@@ -1276,7 +1293,7 @@
     ],
     "location": "READ Books",
     "date": "17-Mar-23",
-    "associations": "",
+    "associations": "Against Ageism, A Queer Manifesto (pub.)",
     "images": "",       
     "summary": "Against Ageism: A Queer Manifesto starts with what it is not: it is not a socio-economic argument against ageism, celebrating “the elderly” as economically viable. Author Simon(e) van Saarloos is not interested in natural arguments about age, which portray different age groups as valuable because of assumed inherent qualities. Instead, this manifesto starts with an experience of childhood sexual abuse, and moves on to dissect the ways in which constructions of “age” and “youth” function to support and reproduce white supremacist patriarchy.",
     "group": 2
@@ -1308,7 +1325,8 @@
     "associations": [
       "Semiotext(e)/MIT", 
       "Western Front Exhibitions", 
-      "Wave Books"
+      "Wave Books",
+      "The Importance of Being Iceland and Bluets (pub. launch)"
     ],
     "images": "",       
     "summary": "Culled by the poet from twenty years of art writing, the essays in The Importance of Being Iceland make a lush document of her--and our--lives in  contemporary crowds. Framed by her travels in Iceland, these essays posit inbetweenness as the most vital position from which to perceive culture as a whole, and a fluidity in national identity as the best model for writing and thinking about art and culture. \n\nBluets is a book by American author Maggie Nelson, published by Wave Books in 2009. The work hybridizes several prose and poetry styles as it documents Nelson's multifaceted experience with the color blue, and is often referred to as lyric essay or prose poetry. It was written between 2003 and 2006.",
@@ -1505,7 +1523,7 @@
     "authorOtherParticipants": "Cate Rimmer",
     "location": "Charles H. Scott Gallery",
     "date": "04-Feb-09 – 08-Mar-09",
-    "associations": "",
+    "associations": "Fallow (pub.)",
     "images": "",       
     "summary": "In Fallow, a solo exhibition by Vancouver-based artist Germaine Koh, plants and groundcover from a fallow urban lot have been transplanted into the gallery, completely filling the exhibition space. The sense of disuse and non-productivity associated with vacant lots is transformed through this process of relocation. What was once identified as a void within the landscape of urban development is ascribed with new use value. As Koh says, “Although withdrawn from ‘constructive’ use, the space is far from empty, but rather full of richly non-productive time and process.”",
     "group": 4
@@ -1809,7 +1827,7 @@
     "authorOtherParticipants": "Greg Bellerby",
     "location": "Charles H. Scott Gallery",
     "date": "18-Jan-12 – 26-Feb-12",
-    "associations": "",
+    "associations": "Grounds for Standing and Understanding (pub. launch)",
     "images": "",       
     "summary": "Golkar’s site-specific installation is made up of two major components that work together to investigate complex relationships between perception, space, architecture and culture.\n\nUsing Persian carpets as a foundation, Golkar literally “draws up” design elements from the intricate patterns and transforms them into three-dimensional scale models that resemble architectural mega-towers. Buildings recently constructed in the Middle East, and elsewhere, such as the Burj Khalifa in Dubai (the world’s tallest building) may come to mind. These architectural miniatures play off the representations of space found in the traditional iconography of the carpets, which would reference specific geographies in their patterning.\n\nGolkar has altered the gallery by building walls that divide the space into patterns based on those of the Persian carpet. The miniature structures are expanded so that the viewer may walk within them. The lines between past and future, interior and exterior, architecture and object blur as scale shifts and two-dimensional patterns translate into three-dimensional objects while engaging with the evolving representation of a culture through ideas of the historical carpet and the futuristic city.",
     "group": 4
@@ -1908,7 +1926,8 @@
     "date": "15-Sep-12 – 21-Oct-12",
     "associations": [
       "Pro Helvetia", 
-      "The Consulate General of Switzerland"
+      "The Consulate General of Switzerland",
+      "Nuggets"
     ],
     "summary": "The exhibition focuses on Swiss artist John Armleder’s early Fluxus-related works with Ecart, a group Armleder founded with Patrick Lucchini and Claude Rychner in Geneva in the late 1960s.\n\nThe Ecart Group published artists’ books, presented exhibitions and performances, and opened a bookstore/gallery that is considered to be “one of the most important alternative spaces in Europe in the 1970s” (Ken Friedman). Ecart worked with many artists including Dick Higgins, Lawrence Weiner, Annette Messager, Daniel Spoerri, Giuseppe Chiari, and Maurizio Nannucci. The exhibition features artworks made by Armleder and Ecart and includes a complete set of Ecart publications, works on paper, mail art projects, films, and sound works created for Paul McCarthy’s Close Radio.\n\nJohn Armleder and Ecart will be the artist’s first exhibition in Canada. Lionel Bovier is an art historian who lives in Paris and Zurich. He has directed the leading Swiss art publishing company JRP|Ringier since 2004. He has written several books on contemporary art and has organized numerous exhibitions during the 1990s. This project marks his return to curatorial practice.",
     "group": 4
@@ -2181,7 +2200,7 @@
     "authorOtherParticipants": "Cate Rimmer",
     "location": "Charles H. Scott Gallery",
     "date": "03-Jun-15 – 05-Jul-15",
-    "associations": "",
+    "associations": "DRAWINGS 1,2,3",
     "images": "",       
     "summary": "A solo exhibition by distinguished Canadian artist Garry Neill Kennedy featuring an extensive collection of nearly 1600 pieces, made up of notes, drawings and doodles begun during the artist's twenty-three year tenure as president of the Nova Scotia College of Art and Design. The exhibition presents an accumulation of ten years worth of plans, from the late 1970s to the late 1980s, for future art works and installations, including exhibitions that occurred and ones that never transpired. These artist sketches are situated together with draft letters to faculty, outlines for meeting agendas and doodles documenting dreaming and boredom alongside NSCAD business.\n\nThe exhibition will be accompanied by a publication made up of three volumes DRAWINGS 1, 2, and 3, co-published by Art Metropole, Publication Studio Vancouver and Emily Carr University Press.",
     "group": 4
@@ -2379,7 +2398,7 @@
     "authorOtherParticipants": "Cate Rimmer",
     "location": "Libby Leshgold Gallery",
     "date": "02-Feb-18 – 22-Apr-18",
-    "associations": "",
+    "associations": "Maureen Gruben: QULLIQ",
     "images": "",       
     "summary": "The Libby Leshgold Gallery is pleased to present QULLIQ: In Darkness, Light, a solo exhibition of new work by Maureen Gruben. The qulliq is a traditional oil lamp that was once the heart of the home. It was used to heat, to cook and to bring continuous light during the darkness of the Arctic winter. The new work included in this exhibition explores notions of light and transparency related to the light of the oil lamp as well as the translucence of ice.\n\nGruben forges critical links between threatened Arctic lands and communities, and international environmental and human conditions through disassembling and re-forming polar bear fur, moose hides, seal skins, gathered kelp. In her work, abstraction of form sits in active tension with the acutely ‘real’ presence of her geographically and culturally embedded mediums.\n\nGruben spent much of her childhood sewing with her mother, who was a seamstress, and trapping with her father. She has a tacit knowledge of Arctic land and the rich but increasingly precarious resources it offers. Frequently addressing themes such as Persistent Organic Pollutants (POPs), melting ice, and the rights of indigenous hunters to maintain their way of life, Gruben’s practice is permeated with activism while at the same time allowing generous room for her materials themselves to speak. While referring explicitly inwards to localised acts of hunting, gathering, communal preparation and sharing—and even to individual animals—her work, equally, extends decisively outwards, exploring new visual languages that offer compelling and often urgent global associations.",
     "group": 4

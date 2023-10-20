@@ -2970,7 +2970,7 @@
     "location": "",
     "associations": "",
     "projects": [
-        "Recipes for an Encounter,
+        "Recipes for an Encounter",
         "With A Bao A Qu Reading When Attitudes Become Form",
         "The Importance of Being Iceland and Bluets (reading)",
         "The Importance of Being Iceland and Bluets (pub. launch)"
@@ -4672,8 +4672,6 @@
     "group": 6
   },
   {
-  
-  {
     "id": "Lorna Brown",
     "category": "person",
     "type": "",
@@ -4876,7 +4874,7 @@
     "location": "",
     "associations": "",
     "projects": [
-        "Maureen Gruben: QULLIQ (pub.)
+        "Maureen Gruben: QULLIQ (pub.)",
         "QULLIQ: In Darkness, Light (exhibit.)"
         ],
     "group": 6
@@ -5378,8 +5376,9 @@
     "type": "",
     "location": "",
     "associations": "",
-    "projects": ["Autogestion, or Henri Lefebvre in New Belgrade"],
-      "Right, to the City"
+    "projects": [
+        "Autogestion, or Henri Lefebvre in New Belgrade",
+        "Right, to the City"
       ],
     "group": 6
   },

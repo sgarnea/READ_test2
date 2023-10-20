@@ -7072,7 +7072,10 @@
     "type": "",
     "location": "",
     "associations": "",
-    "projects": ["After the Gold Rush; Minor Pieces"],
+    "projects": [
+        "After the Gold Rush",
+        "Minor Pieces"
+    ],
     "group": 6
   },
   {

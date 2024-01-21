@@ -1475,7 +1475,7 @@
     "group": 4
   },
   {
-    "id": "The Sound I’m Looking For Part 1",
+    "id": "The Sound I'm Looking For Part 1",
     "category": "exhibition",
     "type": "exhibition",
     "authorPrimary": [
@@ -9752,7 +9752,7 @@
     {"source": "Strippers", "target": "Cate Rimmer", "value": 1},
         
         
-    {"source": "The Sound I’m Looking For Part 1", "target": "Dave Allen", "value": 2},
+    {"source": "The Sound I'm Looking For Part 1", "target": "Dave Allen", "value": 2},
     {"source": "The Sound I’m Looking For Part 1", "target": "Matthew Buckingham", "value": 2},
     {"source": "The Sound I’m Looking For Part 1", "target": "Annika Eriksson", "value": 2},
     {"source": "The Sound I’m Looking For Part 1", "target": "Dennis Mcnulty", "value": 2},

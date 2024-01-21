@@ -2868,8 +2868,6 @@
       "Nonetheless",
       "Telling Details: The Architecture of Clifford Wiens",
       "Strippers", 
-      "The Sound I'm Looking For Part 1",
-      "The Sound I'm Looking For Part 2",
       "Fallow (exhibit.)",
       "Now and Then",
       "Positioning the New",
@@ -9753,14 +9751,14 @@
         
         
     {"source": "The Sound I'm Looking For Part 1", "target": "Dave Allen", "value": 2},
-    {"source": "The Sound I’m Looking For Part 1", "target": "Matthew Buckingham", "value": 2},
-    {"source": "The Sound I’m Looking For Part 1", "target": "Annika Eriksson", "value": 2},
-    {"source": "The Sound I’m Looking For Part 1", "target": "Dennis Mcnulty", "value": 2},
-    {"source": "The Sound I’m Looking For Part 1", "target": "Ian Skedd", "value": 2},
+    {"source": "The Sound I'm Looking For Part 1", "target": "Matthew Buckingham", "value": 2},
+    {"source": "The Sound I'm Looking For Part 1", "target": "Annika Eriksson", "value": 2},
+    {"source": "The Sound I'm Looking For Part 1", "target": "Dennis Mcnulty", "value": 2},
+    {"source": "The Sound I'm Looking For Part 1", "target": "Ian Skedd", "value": 2},
 
-    {"source": "The Sound I’m Looking For Part 1", "target": "Cate Rimmer", "value": 1},
+    {"source": "The Sound I'm Looking For Part 1", "target": "Cate Rimmer", "value": 1}, 
         
-        
+    
     {"source": "The Sound I'm Looking For Part 2", "target": "Brady Cranfield", "value": 2},
     {"source": "The Sound I'm Looking For Part 2", "target": "Brian Joseph Davis", "value": 2},
     {"source": "The Sound I'm Looking For Part 2", "target": "Ceal Floyer", "value": 2},
@@ -9770,7 +9768,7 @@
     {"source": "The Sound I'm Looking For Part 2", "target": "Cate Rimmer", "value": 1},
     {"source": "The Sound I'm Looking For Part 2", "target": "Pauline Oliveros", "value": 1},
 
-    {"source": "The Sound I'm Looking For Part 2", "target": "Western Front New Music Programme", "value": 1}, 
+    {"source": "The Sound I'm Looking For Part 2", "target": "Western Front New Music Programme", "value": 1},
         
         
     {"source": "Fallow (exhibit.)", "target": "Germaine Koh", "value": 2},
